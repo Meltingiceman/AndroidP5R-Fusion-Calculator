@@ -7,7 +7,7 @@ enum Arcana {
 }
 
 enum Type {
-    Physical, Gun, Fire, Ice, Electricty, Wind, Psychic, Nuclear, Bless, Curse, Ailment,
+    Physical, Gun, Fire, Ice, Electricity, Wind, Psychic, Nuclear, Bless, Curse, Ailment,
     Aid, Almighty, Support, Passive
 }
 
@@ -58,6 +58,38 @@ class Skill
     { return effect; }
 }
 
+class SkillSlot
+{
+    public Skill skill;
+    public int level;
+
+    public SkillSlot(Skill skill, int lvl)
+    {
+        this.skill = skill;
+        this.level = lvl;
+    }
+}
+
+class Trait
+{
+    String name;
+    String description;
+    boolean dlc;
+
+    public Trait(String name, String description)
+    {
+        this.name = name;
+        this.description = description;
+    }
+
+    public Trait(String name, String description, boolean dlc)
+    {
+        this.name = name;
+        this.description = description;
+        this.dlc = dlc;
+    }
+}
+
 public class Persona {
 
     private String name;
@@ -67,7 +99,7 @@ public class Persona {
     private Trait trait;
     private Arcana arcana;
     private Resistance[] resistances;
-    private Skill[] skillList;
+    private SkillSlot[] skillList;
 
     //stats
     private int strength;
@@ -75,6 +107,31 @@ public class Persona {
     private int endurance;
     private int agility;
     private int luck;
+
+    private Type inherits;
+    private String item;
+    private String itemR;
+
+    public Persona(Arcana arcana, String name, int lvl, int[] stats, Resistance[] resistances,
+                   SkillSlot[] skills, String item, String itemR, Trait trait, Type inherits )
+    {
+        this.name = name;
+        this.level = lvl;
+        this.arcana = arcana;
+        this.item = item;
+        this.itemR = itemR;
+
+        this.strength = stats[0];
+        this.magic = stats[1];
+        this.endurance = stats[2];
+        this.agility = stats[3];
+        this.luck = stats[4];
+
+        this.resistances = resistances;
+        this.skillList = skills;
+        this.inherits = inherits;
+        this.trait = trait;
+    }
 
     public Persona(String na, int lvl, Arcana arc, Resistance[] reses, int[] stats, Trait trt)
     {
@@ -89,6 +146,40 @@ public class Persona {
         endurance = stats[2];
         agility = stats[3];
         luck = stats[4];
+    }
+
+    public Persona(String na, int lvl, Arcana arc, Resistance[] reses, int[] stats)
+    {
+        name = na;
+        level = lvl;
+        arcana = arc;
+        resistances = reses;
+
+        strength = stats[0];
+        magic = stats[1];
+        endurance = stats[2];
+        agility = stats[3];
+        luck = stats[4];
+    }
+
+    public Persona(String name, int lvl, Arcana arcana, String item, String itemR, int[] stats,
+                   Resistance[] resistances, SkillSlot[] skills, Type inherits)
+    {
+        this.name = name;
+        this.level = lvl;
+        this.arcana = arcana;
+        this.item = item;
+        this.itemR = itemR;
+
+        this.strength = stats[0];
+        this.magic = stats[1];
+        this.endurance = stats[2];
+        this.agility = stats[3];
+        this.luck = stats[4];
+
+        this.resistances = resistances;
+        this.skillList = skills;
+        this.inherits = inherits;
     }
 
     public int getCost()
@@ -106,7 +197,7 @@ public class Persona {
     public Resistance[] getResistances()
     { return resistances; }
 
-    public Skill[] getSkillList()
+    public SkillSlot[] getSkillList()
     { return skillList; }
 
     public int[] getAllStats()
@@ -117,7 +208,7 @@ public class Persona {
         cost = num;
     }
 
-    public void setSkills(Skill[] list)
+    public void setSkills(SkillSlot[] list)
     { skillList = list; }
 
     public int alphabetiseCompareTo(Persona other)
@@ -142,22 +233,18 @@ public class Persona {
     { return name.equalsIgnoreCase(other.name); }
 }
 
-class SkillPair
-{
-    public Skill skill;
-    public int level;
-}
 
-class Trait
-{
-    String name;
-    String description;
-    boolean dlc;
-}
 
 class AdvancedPersona extends Persona
 {
     Persona[] recipe;
+
+    public AdvancedPersona(Arcana arcana, String name, int lvl, int[] stats, Resistance[] resistances, SkillSlot[] skills,
+                           String item, String itemR, Trait trait, Persona[] recipe, Type inherits )
+    {
+        super(arcana, name, lvl, stats, resistances, skills, item, itemR, trait, inherits);
+        this.recipe = recipe;
+    }
 
     public AdvancedPersona(String na, int lvl, Arcana arc, Resistance[] reses, int[] stats, Trait trt, Persona[] rec)
     {
@@ -172,10 +259,26 @@ class AdvancedPersona extends Persona
 class TreasureDemon extends Persona
 {
     private int[] tierChart;
+    private Trait[] traits;
 
-    public TreasureDemon(String na, int lvl, Arcana arc, Resistance[] reses, int[] stats, Trait trt, int[] chart)
+    public TreasureDemon(Arcana arcana, String name, int lvl, int[] stats, Resistance[] resistances, SkillSlot[] skills,
+                         String item, String itemR, Trait[] traits, int[] tierChart, Type inherits )
     {
-        super(na, lvl, arc, reses, stats, trt);
-        tierChart = chart;
+        super(name, lvl, arcana, item, itemR, stats, resistances, skills, inherits);
+        this.tierChart = tierChart;
+        this.traits = traits;
     }
+
+    public TreasureDemon(String na, int lvl, Arcana arc, Resistance[] reses, int[] stats, Trait[] trts, int[] chart)
+    {
+        super(na, lvl, arc, reses, stats);
+        this.tierChart = chart;
+        this.traits = trts;
+    }
+
+    public int[] getChar()
+    { return this.tierChart; }
+
+    public Trait[] getTraits()
+    { return this.traits; }
 }

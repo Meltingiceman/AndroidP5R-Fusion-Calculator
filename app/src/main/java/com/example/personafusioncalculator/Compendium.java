@@ -456,7 +456,89 @@ public class Compendium extends AppCompatActivity {
 		}
 	};
 
-    private ArrayList<Persona> listOfPersonas;
+    private Trait[] traitList = new Trait[] {
+			new Trait("Last Stand", "Allows use of ambush-only skills after Baton Pass."),
+			new Trait("Heated Bloodline", " Reduce cost of Fire skills by 50%."),
+			new Trait("Frigid Bloodline", " Reduce cost of Ice skills by 50%."),
+			new Trait("Electric Bloodline", " Reduce cost of Elec skills by 50%."),
+			new Trait("Wind Bloodline", " Reduce cost of Wind skills by 50%."),
+			new Trait("Psychic Bloodline", " Reduce cost of Psy skills by 50%."),
+			new Trait("Atomic Bloodline", " Reduce cost of Nuke skills by 50%."),
+			new Trait("Blessed Bloodline", " Reduce cost of Bless skills by 50%."),
+			new Trait("Cursed Bloodline", " Reduce cost of Curse skills by 50%."),
+			new Trait("Savior Bloodline", " Reduce cost of Healing skills by 50%."),
+			new Trait("Relief Bloodline", " Reduce cost of Support skills by 50%."),
+			new Trait("Drunken Passion", " Reduce cost of Fire skills by 75%."),
+			new Trait("Cocytus", " Reduce cost of Ice skills by 75%."),
+			new Trait("Bargain Bolts", " Reduce cost of Elec skills by 75%."),
+			new Trait("Vahana's Wings", " Reduce cost of Wind skills by 75%."),
+			new Trait("Chi You's Blessing", " Reduce cost of Psy skills by 75%."),
+			new Trait("Atomic Hellscape", " Reduce cost of Nuke skills by 75%."),
+			new Trait("Martyr's Gift", " Reduce cost of Bless skills by 75%."),
+			new Trait("Mother's Lament", " Reduce cost of Curse skills by 75%."),
+			new Trait("Grace of Mother", " Reduce cost of Healing skills by 75%."),
+			new Trait("Ave Maria", " Reduce cost of Support skills by 75%."),
+			new Trait("Just Die", " Reduce cost of instant death skills to 0."),
+			new Trait("Allure of Wisdom", " Reduce cost of magic skills by 75%."),
+			new Trait("Thermal Conduct", " Increase chance of inflicting Burn after Baton Pass."),
+			new Trait("Cold-Blooded", " Increase chance of inflicting Freeze during 1 More."),
+			new Trait("Static Electricity", " Increase chance of inflicting Shock on downed foes."),
+			new Trait("Foul Odor", " Increase chance of inflicting Ailments after Baton Pass."),
+			new Trait("Ghost Nest", " Increase chance of inflicting Ailments on downed foes."),
+			new Trait("Foul Stench", " Increase chance of inflicting Ailments."),
+			new Trait("Striking Weight", " Strengthen Physical attacks by 20%."),
+			new Trait("Undying Fury", " Strengthen Physical attacks by 30%."),
+			new Trait("Intense Focus", " Strengthen single-target magic attacks by 20%."),
+			new Trait("Mighty Gaze", " Strengthen multi-target magic attacks by 20%."),
+			new Trait("Skillful Combo", " Increase Attack after Baton Pass."),
+			new Trait("Linked Bloodline", " Greatly increase Attack after Baton Pass."),
+			new Trait("Ailment Hunter", " Increases Attack by 25% per ailment inflicted on foe."),
+			new Trait("Deathly Illness", " Increase success rate of Instant Death skills."),
+			new Trait("Omen", " Greatly increase success rate of Instant Death skills."),
+			new Trait("Skillful Technique", " Strengthen Technical damage by 25%."),
+			new Trait("Universal Law", " Strengthen Technical damage by 50%."),
+			new Trait("Relentless", " Increase Attack by 50% when striking foe's weakness."),
+			new Trait("Retaliating Body", " Doubles Counter damage."),
+			new Trait("Will of the Sword", " Triples Charge/Concentrate skill damage."),
+			new Trait("Pagan Allure", " Strengthen magic attacks by 50%."),
+			new Trait("Draining Mouth", " Doubles effect of Drain-type skills and passives."),
+			new Trait("Gluttonmouth", " Increase amount of HP restored to self by 50%."),
+			new Trait("Demon's Bite", " Doubles amount of HP restored to self."),
+			new Trait("Mouth of Savoring", " Increase amount of SP restored to self by 50%."),
+			new Trait("Naranari", " Doubles amount of SP restored to self."),
+			new Trait("Internal Hypnosis", " Increase buff timers by 1 turn for self."),
+			new Trait("Positive Thoughts", " Increase buff timers by 2 turns for self."),
+			new Trait("Potent Hypnosis", " Increase buff timers by 1 turn for party."),
+			new Trait("Wealth of Lotus", " Increase buff timers by 2 turns for party."),
+			new Trait("Rare Antibody", " Reduce susceptibility to all ailments."),
+			new Trait("Immunity", " Impart immunity against all ailments."),
+			new Trait("Bloodstained Eyes", " Increase allies' evasion against foes inflicted with ailments."),
+			new Trait("Crisis Control", " Decrease damage received when struck by weakness."),
+			new Trait("Gloomy Child", " Activates all equipped special weather passives in normal weather."),
+			new Trait("Pinch Anchor", " Allows use of ambush-only skills after Baton Pass."),
+			new Trait("Vitality of the Tree", " Allows use of ambush-only skills under normal conditions."),
+			new Trait("Circle of Sadness", " Revives with 1 HP when KO'd. Usable 4 times in battle", true),
+			new Trait("Iron Heart", " Decreases SP cost by half after Baton Pass.", true),
+			new Trait("Hallowed Spirit", " Doubles amount of HP/SP restored to self.", true),
+			new Trait("God Maker", " Increases chance of triggering ally's Persona traits.", true),
+			new Trait("Hollow Jester", " Increase Attack by 40% per ailment inflicted on foe.", true),
+			new Trait("Inviolable Beauty", " Triples Counter damage.", true),
+			new Trait("Tag Team", " Expendable items not used up after Baton Pass.", true),
+			new Trait("Frenzied Bull", " Increases damage to foes when low on HP.", true),
+			new Trait("Bolstering Force", " Increases Attack by 50% during 1 More.", true),
+			new Trait("Grace of the Olive", " Decreases HP/SP cost to 0 during 1 More.", true),
+			new Trait("Country Maker", " Increases Attack/Defense based on Inmate Registry completion.", true),
+			new Trait("Hazy Presence", " Increases chance of triggering ally's Follow-Up attack.", true),
+			new Trait("Treasured Talent", "Carries multiple traits to pass down during fusion.")
+	};
+
+    private ArrayList<Persona> listOfPersonas = new ArrayList<Persona>(){
+		{
+
+		}
+	};
+
+    //an arcana table useful for helping figure out the resulting fusion's arcana
     private Arcana[][] arcanaChart = new Arcana[][]{
         {Arcana.Fool, Arcana.Death, Arcana.Moon, Arcana.Hanged_Man, Arcana.Temperance, Arcana.Hermit, Arcana.Chariot, Arcana.Moon, Arcana.Star, Arcana.Priestess, Arcana.Faith, Arcana.Death, Arcana.Tower, Arcana.Strength, Arcana.Hierophant, Arcana.Temperance, Arcana.Empress, Arcana.Magician, Arcana.Justice, Arcana.Justice, Arcana.Sun, Arcana.Consultant, Arcana.Hierophant},
         {Arcana.Death, Arcana.Magician, Arcana.Temperance, Arcana.Justice, Arcana.Faith, Arcana.Death, Arcana.Devil, Arcana.Priestess, Arcana.Emperor, Arcana.Lovers, Arcana.Justice, Arcana.Fool, Arcana.Empress, Arcana.Hermit, Arcana.Chariot, Arcana.Hierophant, Arcana.Temperance, Arcana.Priestess, Arcana.Lovers, Arcana.Hierophant, Arcana.Strength, Arcana.Strength, Arcana.Moon},
@@ -559,6 +641,16 @@ public class Compendium extends AppCompatActivity {
 		}
 
 		//if the skill is not found
+		return null;
+	}
+
+	private Trait findTrait(String name)
+	{
+		for (int i = 0; i < traitList.length; i++) {
+			if(traitList[i].name.equalsIgnoreCase(name))
+				return traitList[i];
+		}
+
 		return null;
 	}
 
