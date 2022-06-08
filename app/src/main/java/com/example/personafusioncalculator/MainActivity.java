@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import java.io.IOException;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -11,7 +13,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-
+        Compendium compendium = Compendium.getInstance();
+        try {
+            compendium.load(getAssets().open(getString(R.string.PersonaListFileName)));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

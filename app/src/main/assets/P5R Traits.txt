@@ -62,15 +62,15 @@ Gloomy_Child		Activates all equipped special weather passives in normal weather.
 Pinch_Anchor		Allows use of ambush-only skills after Baton Pass.
 Vitality_of_the_Tree	Allows use of ambush-only skills under normal conditions.
 
-Circle_of_Sadness	Revives with 1 HP when KO'd. Usable 4 times in battle.	
-Iron_Heart		Decreases SP cost by half after Baton Pass.	
-Hallowed_Spirit		Doubles amount of HP/SP restored to self.	
-God_Maker		Increases chance of triggering ally's Persona traits.	
-Hollow_Jester		Increase Attack by 40% per ailment inflicted on foe.	
-Inviolable_Beauty	Triples Counter damage.
-Tag_Team		Expendable items not used up after Baton Pass.	
-Frenzied_Bull		Increases damage to foes when low on HP.	
-Bolstering_Force	Increases Attack by 50% during 1 More.	
-Grace_of_the_Olive	Decreases HP/SP cost to 0 during 1 More.	
-Country_Maker		Increases Attack/Defense based on Inmate Registry completion.	
-Hazy_Presence		Increases chance of triggering ally's Follow-Up attack.	
+Circle_of_Sadness*	Revives with 1 HP when KO'd. Usable 4 times in battle.	
+Iron_Heart*		Decreases SP cost by half after Baton Pass.	
+Hallowed_Spirit*	Doubles amount of HP/SP restored to self.	
+God_Maker*		Increases chance of triggering ally's Persona traits.	
+Hollow_Jester*		Increase Attack by 40% per ailment inflicted on foe.	
+Inviolable_Beauty*	Triples Counter damage.
+Tag_Team*		Expendable items not used up after Baton Pass.	
+Frenzied_Bull*		Increases damage to foes when low on HP.	
+Bolstering_Force*	Increases Attack by 50% during 1 More.	
+Grace_of_the_Olive*	Decreases HP/SP cost to 0 during 1 More.	
+Country_Maker*		Increases Attack/Defense based on Inmate Registry completion.	
+Hazy_Presence*		Increases chance of triggering ally's Follow-Up attack.	

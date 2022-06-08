@@ -7,11 +7,12 @@ import java.io.*;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.renderscript.ScriptGroup;
 
 
-public class Compendium extends AppCompatActivity {
-    private int AMT_ARCANA = 23;
-    private int AMT_PERSONA = 232;
+public class Compendium {
+    private final int AMT_ARCANA = 23;
+    private final int AMT_PERSONA = 232;
 
     private Skill[][] skillList = new Skill[][]
 	{
@@ -532,11 +533,7 @@ public class Compendium extends AppCompatActivity {
 			new Trait("Treasured Talent", "Carries multiple traits to pass down during fusion.")
 	};
 
-    private ArrayList<Persona> listOfPersonas = new ArrayList<Persona>(){
-		{
-
-		}
-	};
+    private ArrayList<Persona> listOfPersonas;
 
     //an arcana table useful for helping figure out the resulting fusion's arcana
     private Arcana[][] arcanaChart = new Arcana[][]{
@@ -566,58 +563,225 @@ public class Compendium extends AppCompatActivity {
     };
 
     //the instance anyone using this class will use
-    private final Compendium instance = new Compendium();
+    private static Compendium instance = new Compendium();
+	private boolean initiaized;
+    private Compendium() {
+		listOfPersonas = new ArrayList<Persona>();
+		arcanaChart = new Arcana[AMT_ARCANA][AMT_ARCANA];
+		initiaized = false;
+		//loadPersonas();
+	}
 
-    private Compendium()
-    {
-        listOfPersonas = new ArrayList<Persona>();
-        arcanaChart = new Arcana[AMT_ARCANA][AMT_ARCANA];
-        loadPersonas();
-    }
-
-    public Compendium getInstance()
+    public static Compendium getInstance()
     { return instance; }
 
-    private void loadPersonas()
+//    public void load(String dataFolder, String file) {
+//		if (!initiaized) {
+//			loadPersonas(dataFolder, file);
+//			initiaized = true;
+//		}
+//	}
+
+	public void load(InputStream fileStream)
+	{
+		if(!initiaized)
+		{
+			loadPersonas(fileStream);
+			initiaized = true;
+		}
+	}
+
+    private void loadPersonas(InputStream stream)
     {
-        String path = getFilesDir().toString();
-        String file = getString(R.string.PersonaListFileName);
 
+//		String path = dataFolder;
+//		System.out.println(path);
+		Scanner fileReader = null;
+        //read the file for persona data
         try {
-            Scanner fileReader = new Scanner(new File(path + File.separator + "assets" +
-                    File.separator + file));
+            fileReader = new Scanner(stream);
 
-            //personas level
-            int lvl = fileReader.nextInt();
+            while(fileReader.hasNext()) {
 
-            //personas name
-            String name = fileReader.next();
-            String temp = fileReader.next();
+				String line = fileReader.nextLine().trim();
+				System.out.println("LINE: " + line);
 
-            while(!isArcana(temp))
-            {
-                name += " " + temp;
-                temp = fileReader.next();
-            }
+				//?| is a delimiter in the data file
+				String[] values = line.split(" \\?\\| ");
 
-            //when the loop above breaks temp is no equal to the personas arcana
-            Arcana arcana = Arcana.valueOf(temp);
+				Persona addition;
 
-            //the stats the persona has
-            int[] stats = new int[5];
-            stats[0] = fileReader.nextInt();
-            stats[1] = fileReader.nextInt();
-            stats[2] = fileReader.nextInt();
-            stats[3] = fileReader.nextInt();
-            stats[4] = fileReader.nextInt();
+				if (values[0].equalsIgnoreCase("Persona")) {
+					addition = makePersona(values);
+				} else if (values[0].equalsIgnoreCase("AdvancedPersona")) {
+					addition = makeAdvanced(values);
+				} else {
+					addition = makeTreasureDemon(values);
+				}
 
-        } catch (FileNotFoundException e) {
+				listOfPersonas.add(addition);
+			}
+
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
+        for(int i = 0; i < listOfPersonas.size(); i++)
+		{
+			System.out.println(listOfPersonas.get(i).getName());
+		}
     }
 
-    //a find skill for when we don't know the type
+    private Persona makePersona(String[] values)
+	{
+		String name = values[1];
+		int lvl = Integer.parseInt(values[2]);
+		Arcana arcana = Arcana.valueOf(values[3]);
+
+		int[] stats = processStats(values[4]);
+		Resistance[] resistances = processResistances(values[5]);
+		SkillSlot[] skills = processSkills(values[6]);
+		String item = values[7];
+		String itemR = values[8];
+		Trait trait = findTrait(values[9]);
+		Type inherits = Type.valueOf(values[10]);
+
+		boolean dlc = name.contains("*");
+
+		return new Persona(arcana, name, lvl, stats, resistances,
+				skills, item, itemR, trait, inherits, dlc);
+	}
+
+	private AdvancedPersona makeAdvanced(String[] values)
+	{
+		String name = values[1];
+		int lvl = Integer.parseInt(values[2]);
+		Arcana arcana = Arcana.valueOf(values[3]);
+
+		int[] stats = processStats(values[4]);
+		Resistance[] resistances = processResistances(values[5]);
+		SkillSlot[] skills = processSkills(values[6]);
+		String item = values[7];
+		String itemR = values[8];
+		Trait trait = findTrait(values[9]);
+		Persona[] recipe = processRecipe( values[10]);
+		Type inherits = Type.valueOf(values[11]);
+
+		boolean dlc = name.contains("*");
+
+		return new AdvancedPersona(arcana, name, lvl, stats, resistances, skills, item,
+				itemR, trait, recipe, inherits, dlc);
+	}
+
+	private TreasureDemon makeTreasureDemon(String[] values)
+	{
+		String name = values[1];
+		int lvl = Integer.parseInt(values[2]);
+		Arcana arcana = Arcana.valueOf(values[3]);
+
+		int[] stats = processStats(values[4]);
+		Resistance[] resistances = processResistances(values[5]);
+		SkillSlot[] skills = processSkills(values[6]);
+		String item = values[7];
+		String itemR = values[8];
+		Trait[] traits = processTraits(values[9]);
+
+		//the logic to process the tier-chart is the as processing the stats
+		int[] tierChart = processStats(values[10]);
+
+		Type inherits = Type.valueOf(values[11]);
+
+		return new TreasureDemon(arcana, name, lvl, stats, resistances, skills, item,
+				itemR, traits, tierChart, inherits);
+	}
+
+	private int[] processStats(String strStats)
+	{
+		String[] temp = strStats.split(",");
+		int[] stats = new int[temp.length];
+
+		for(int i = 0; i < temp.length; i++)
+		{
+			stats[i] = Integer.parseInt(temp[i]);
+		}
+
+		return stats;
+	}
+
+	private Resistance[] processResistances(String strRes)
+	{
+		String[] temp = strRes.split(",");
+		Resistance[] resistances = new Resistance[temp.length];
+
+		for(int i = 0; i < temp.length; i++)
+		{
+			resistances[i] = Resistance.valueOf(temp[i]);
+		}
+
+		return resistances;
+	}
+
+	/* Skill slots have syntax like:
+	* 	Name1.lvl1,Name2.lvl2,Name3.lvl3,...,NameK.lvlK
+	* */
+	private SkillSlot[] processSkills(String strSkills)
+	{
+		String[] skillPairs = strSkills.split(",");
+		SkillSlot[] skills = new SkillSlot[skillPairs.length];
+
+		for(int i = 0; i < skillPairs.length; i++)
+		{
+			System.out.println(skillPairs[i]);
+			//creates an array that contains {Name, lvl} as strings
+			String[] temp = skillPairs[i].split("\\.");
+
+			skills[i] = new SkillSlot( findSkill(temp[0]), Integer.parseInt(temp[1]));
+
+		}
+
+		return skills;
+	}
+
+	private Persona[] processRecipe(String strVal)
+	{
+		String[] temp = strVal.split(",");
+		Persona[] personas = new Persona[temp.length];
+
+		for(int i = 0; i < temp.length; i++)
+		{
+			personas[i] = findPersona(temp[i]);
+		}
+
+		return personas;
+	}
+
+	private Trait[] processTraits(String strTrts)
+	{
+		String[] temp = strTrts.split(",");
+		Trait[] traits = new Trait[temp.length];
+
+		for(int i = 0; i < temp.length; i++)
+		{
+			traits[i] = findTrait(temp[i]);
+		}
+
+		return traits;
+	}
+
+	public final Persona findPersona(String name)
+	{
+		for(int i = 0; i < listOfPersonas.size(); i++)
+		{
+			if(listOfPersonas.get(i).getName().equals(name))
+			{
+				return listOfPersonas.get(i);
+			}
+		}
+
+		return null;
+	}
+
+    //a find skill for when we don't know the skill type
     public Skill findSkill(String name)
 	{
 		for(int i = 0; i < skillList.length; i++)

@@ -1,232 +1,231 @@
-1	Arsene	Fool	2	2	2	3	1	-	-	-	wk	-	-	-	-	wk	rs 
-2	Jack-o'-Lantern	Magician	2	3	3	3	2	-	-	ab	wk	-	wk	-	-	-	-
-2	Pixie	Lovers	1	3	3	4	2	-	wk	-	wk	rs	-	-	-	rs	wk
-3	Agathion	Chariot	3	4	5	7	3	-	rs	-	-	rs	wk	-	-	-	-
-3	Mandrake	Death	2	3	3	4	4	-	-	wk	-	rs	-	-	-	-	-
-4	Bicorn	Hermit	5	3	3	5	3	-	-	-	-	wk	-	-	-	-	rs
-5	Cait Sith	Magician	6	4	4	5	3	-	-	-	-	rs	wk	-	-	-	-
-5	Incubus	Devil	4	6	4	5	3	-	-	wk	-	rs	-	-	-	wk	-
-6	Kelpie	Strength	5	5	5	6	4	-	-	-	rs	wk	-	-	-	-	-
-6	Saki Mitama	Lovers	4	6	5	6	4	-	-	-	rs	-	wk	-	-	-	-
-6	Silky	Priestess	4	7	4	5	5	-	-	wk	rs	wk	-	-	-	-	-
-7	Genbu	Temperance	5	6	7	6	4	-	-	-	nu	wk	-	rs	-	-	-
-7	Succubus	Moon	4	7	5	8	4	-	-	rs	-	-	wk	-	-	wk	nu
-8	Obariyon	Fool	7	3	9	8	4	rs	-	-	-	wk	-	-	-	-	-
-9	Angel	Justice	6	9	5	9	5	-	wk	-	-	rs	-	-	-	nu	wk
-9	Berith	Hierophant	9	6	8	8	3	-	nu	rs	wk	-	-	-	-	-	-
-9	Hua Po	Hanged_Man	4	10	4	8	8	-	wk	rp	wk	-	-	-	-	-	-
-9	Koropokkuru	Hermit	5	8	6	9	6	-	-	wk	rs	-	rs	-	-	-	-
-9	Mokoi	Death	9	5	6	10	4	-	-	-	-	rs	wk	-	-	-	-
-10	Regent!	Emperor	10	10	10	10	10	rs	rs	-	-	-	-	-	wk	-	- -1 1 -1 -1 2 1 -1 1 1 2 1 -1 1 1 -1 -2 -1 1 -1 1 -1 -1 1
-10	Slime	Chariot	9	6	11	6	5	rs	rs	wk	-	-	wk	-	-	-	-
-11	Apsaras	Priestess	7	11	6	10	6	-	-	wk	rs	wk	-	-	-	-	-
-11	Jack Frost	Magician	8	9	7	9	7	-	-	wk	nu	-	-	-	-	-	-
-11	Kodama	Star	7	11	8	10	4	-	-	wk	rs	-	-	-	-	-	-
-11	Koppa Tengu	Temperance	7	8	8	11	6	-	-	-	wk	-	rs	-	-	wk	-
-11	Orpheus F*	Fool	8	9	8	9	6	-	-	-	-	wk	-	-	-	rs	wk
-12	Kusi Mitama	Councillor	7	11	9	8	8	-	-	wk	-	-	rs	-	-	-	-
-12	Onmoraki	Moon	9	12	7	10	5	-	-	rs	wk	-	-	-	-	wk	nu
-13	Ame-no-Uzume	Lovers	7	10	9	11	9	-	-	ab	-	-	-	wk	-	-	-
-13	Ippon-Datara	Hermit	11	7	14	6	8	-	rs	rs	wk	-	rp	-	-	rs	rs
-13	Orpheus F Picaro*	Fool	9	11	9	10	7	-	-	-	-	wk	-	-	-	rs	wk
-14	Archangel	Justice	11	9	10	12	7	-	-	-	-	wk	-	-	-	nu	wk
-14	Inugami	Hanged_Man	11	9	9	12	8	-	nu	nu	-	-	wk	-	-	-	nu
-15	Makami	Temperance	13	12	8	11	8	-	nu	-	-	wk	rs	-	rs	nu	-
-15	Queen's Necklace!	Empress	15	15	15	15	15	rs	rs	-	-	-	-	wk	-	-	- 1 -1 1 2 -1 -1 1 -1 -1 -1 -1 1 1 -1 1 1 -2 -1 2 -1 -1 1 1
-15	Shiisaa	Strength	10	11	11	11	9	rs	-	-	-	-	-	wk	-	nu	wk
-16	Eligor	Emperor	12	10	13	10	10	-	-	rs	-	wk	-	-	-	-	rs
-16	High Pixie	Fool	8	14	10	13	10	-	wk	-	-	rs	rs	-	wk	-	-
-16	Suzaku	Sun	9	12	10	15	9	-	-	ab	wk	-	-	-	rs	-	-
-16	Kaguya*	Moon	11	15	12	11	6	-	-	wk	-	-	rs	-	-	nu	nu
-17	Matador	Death	11	13	10	16	8	-	-	-	-	wk	nu	-	-	-	-
-17	Nekomata	Magician	13	10	12	15	8	-	-	-	-	wk	-	rs	-	-	-
-17	Orobas	Hierophant	11	14	15	12	6	-	-	-	wk	-	rs	-	-	-	rs
-17	Sudama	Hermit	9	14	12	13	10	-	-	-	wk	-	rp	-	wk	-	-
-18	Black Ooze	Moon	15	7	16	8	15	rs	rs	-	rs	wk	-	wk	-	wk	nu
-18	Shiki-Ouji	Chariot	16	14	12	9	10	nu	nu	-	-	-	-	-	wk	nu	nu
-19	*Flauros	Devil	15	11	13	14	11	-	-	nu	wk	-	rs	-	rs	-	- [Orobas, Eligor, Berith]
-19	Leanan Sidhe	Lovers	9	17	12	16	10	-	-	wk	-	-	rs	rs	-	-	-
-20	Nue	Death	16	10	17	14	10	-	-	wk	rs	-	-	-	-	-	nu
-20	Oni	Strength	19	9	17	12	10	rs	rs	-	-	-	-	-	-	-	-
-20	Stone of Scone!	Fortune	20	20	20	20	20	rs	rs	wk	-	-	-	-	-	-	- -1 2 -1 -1 1 1 -1 1 -1 -1 2 1 -1 1 -1 -1 1 1 -2 -1 1 1 1
-20	Yaksini	Empress	14	11	13	16	13	-	nu	-	rs	-	-	-	wk	-	-
-20	Izanagi*	Fool	14	13	13	14	13	-	-	-	-	rs	wk	-	-	-	nu
-21	Orthrus	Hanged_Man	16	14	14	19	7	-	-	ab	wk	-	-	-	rs	-	-
-21	Phoenix	Faith	12	15	15	17	11	-	-	-	rs	wk	nu	-	-	-	-
-22	Jikokuten	Temperance	18	11	16	15	13	rs	-	-	-	-	-	-	-	rs	wk
-22	Nigi Mitama	Councillor	13	15	15	16	14	-	-	-	-	wk	-	-	-	rs	rs
-23	Fuu-Ki	Star	14	17	16	15	14	-	rs	-	-	wk	ab	-	-	-	-
-23	Sandman	Magician	11	13	14	17	21	-	-	wk	-	wk	rs	-	-	-	-
-23	Izanagi Picaro*	Fool	16	15	15	16	14	-	-	-	-	nu	wk	-	-	-	nu
-24	Naga	Hermit	15	17	15	17	15	-	rs	-	-	nu	wk	-	-	-	-
-24	Rakshasa	Strength	20	15	18	17	9	rs	nu	rs	-	-	wk	-	-	wk	rs
-24	Sui-Ki	Moon	16	15	15	18	15	-	rs	-	ab	rs	-	-	wk	-	-
-25	Anzu	Hierophant	14	18	15	21	14	-	wk	-	-	rs	rp	-	wk	-	-
-25	Kin-Ki	Chariot	21	13	21	15	12	rs	rp	-	-	-	-	-	-	-	-
-25	Koh-i-Noor!	Priestess	25	25	25	25	25	rs	wk	-	-	-	-	-	-	-	- 1 -1 2 1 -1 -2 1 -1 2 1 -1 1 -1 1 -1 1 1 -1 -1 1 -1 1 1
-25	Setanta	Emperor	19	16	18	13	16	-	rs	-	-	-	-	wk	rs	-	-
-25	Kaguya Picaro*	Moon	17	20	19	15	11	-	-	wk	-	-	-	-	-	nu	nu
-26	Isis	Priestess	14	20	17	18	16	-	-	-	-	-	-	wk	-	nu	-
-26	Lamia	Empress	21	15	18	19	12	-	-	-	wk	rs	-	-	wk	-	nu
-26	Take-Minakata	Hanged_Man	17	19	18	16	15	-	-	-	-	rs	-	wk	-	-	rs
-26	Orpheus*	Fool	17	17	17	17	17	-	-	-	-	wk	-	-	-	rs	wk
-27	Andras	Devil	15	19	19	21	14	-	-	wk	rs	-	-	rs	-	wk	nu
-27	Clotho	Fortune	14	19	18	20	17	-	-	-	wk	-	nu	-	wk	-	-
-27	Tam Lin	Faith	21	16	18	16	17	rs	-	nu	-	-	rs	-	-	ab	wk
-28	Choronzon	Magician	16	19	19	18	19	rs	-	ab	-	-	-	-	-	wk	-
-28	Pisaca	Death	19	21	21	16	14	-	-	wk	-	rs	-	-	-	wk	nu
-29	Principality	Justice	17	19	18	21	19	-	-	rs	-	-	-	-	-	nu	wk
-29	Orpheus Picaro*	Fool	19	19	19	19	19	-	-	-	-	wk	-	-	-	rs	wk
-30	Ara Mitama	Chariot	20	18	20	20	19	rs	-	-	wk	-	-	-	-	-	-
-30	*Neko Shogun	Star	19	20	19	21	18	rs	-	-	-	rs	wk	-	-	nu	rs [Anzu, Sudama, Kodama]
-30	Orlov!	Strength	30	30	30	30	30	rs	rs	-	-	-	-	-	-	-	wk -1 1 1 1 -1 -1 -1 1 -2 -1 1 2 1 -1 1 -1 -1 2 1 1 -1 -1 -1
-30	Ariadne*	Fortune	23	19	20	17	18	-	rs	-	-	-	-	wk	nu	rs	-
-31	Kurama Tengu	Hermit	20	19	21	24	16	-	-	-	nu	-	rp	-	-	rs	rs
-31	Zouchouten	Strength	22	19	24	18	17	rs	-	-	-	-	wk	-	-	-	-
-32	Decarabia	Councillor	21	23	19	22	18	wk	-	rp	-	-	-	-	rs	-	rs
-32	Lilim	Devil	17	23	18	25	20	-	-	-	rs	-	wk	-	-	wk	nu
-33	Mithra	Temperance	19	26	19	24	18	-	-	-	nu	wk	-	-	-	nu	-
-33	Mothman	Moon	21	24	16	24	21	-	wk	-	-	nu	-	rs	-	-	-
-34	Anubis	Judgement	19	24	22	21	23	-	rs	-	-	-	-	rs	-	nu	nu
-34	Thunderbird	Sun	17	24	24	26	18	-	-	-	-	ab	-	wk	-	-	wk
-35	Arahabaki	Hermit	21	23	22	24	22	rp	rp	-	-	-	-	wk	wk	rs	rs
-35	Emperor's Amulet!	Hanged_Man	35	35	35	35	35	rs	rs	-	-	wk	-	-	-	-	- -1 1 -1 1 1 -1 -1 -2 1 1 -1 1 2 -1 1 2 1 -1 -1 -1 1 1 1
-35	Lachesis	Fortune	18	26	22	25	21	-	-	-	nu	wk	rs	-	-	-	-
-36	Kaiwan	Star	23	26	24	22	20	-	nu	-	-	-	-	nu	wk	-	-
-36	Thoth	Emperor	21	28	21	24	21	-	-	-	-	-	-	wk	nu	nu	rs
-37	Belphegor	Tower	25	27	24	23	19	-	-	wk	rs	rs	-	-	rs	-	rp
-37	Hell Biker	Death	23	24	24	30	17	-	-	rp	-	-	rs	-	-	wk	-
-38	Legion	Fool	24	24	30	23	20	rs	-	rs	-	-	-	rs	-	wk	nu
-38	White Rider	Chariot	22	21	26	27	25	-	-	nu	wk	-	-	-	-	nu	rp
-39	Atropos	Fortune	23	30	22	27	22	-	-	wk	-	-	nu	-	-	-	-
-39	Mithras	Sun	27	25	27	25	20	rs	rs	ab	-	-	-	wk	nu	-	-
-39	Unicorn	Faith	20	27	25	28	24	-	-	-	nu	-	-	rs	-	nu	wk
-40	Daisoujou	Hierophant	21	33	24	24	25	rs	-	-	-	-	-	-	-	nu	wk
-40	Hariti	Empress	21	32	24	23	27	-	-	-	-	-	wk	rs	-	rs	-
-40	Hope Diamond!	Death	40	40	40	40	40	rs	rs	-	wk	-	-	-	-	-	- 1 1 1 -1 1 -1 -2 -1 -1 1 1 -1 -1 2 -1 -1 -1 1 -1 2 -1 1 1
-40	Kikuri-Hime	Priestess	22	31	24	28	22	-	-	wk	-	-	nu	-	-	rs	-
-41	Power	Justice	30	26	28	25	21	-	-	-	-	-	rs	-	-	nu	wk
-41	Red Rider	Tower	26	27	25	29	23	-	-	-	-	-	-	-	-	wk	nu
-42	Hecatoncheires	Hanged_Man	35	22	27	23	26	-	rs	-	-	-	-	-	-	wk	nu
-42	Kumbhanda	Hermit	25	30	25	27	26	-	-	nu	-	-	-	wk	-	-	rs
-42	Kushinada-Hime	Lovers	24	30	26	28	25	-	-	-	wk	-	-	-	wk	rp	-
-42	Ose	Fool	32	24	25	31	21	-	nu	rs	-	-	-	-	-	wk	nu
-42	Ariadne Picaro*	Fortune	36	23	29	24	21	-	rs	-	-	-	-	wk	nu	rs	-
-43	Girimehkala	Moon	32	24	32	29	19	rp	rp	rs	-	-	-	-	-	wk	nu
-43	Queen Mab	Magician	23	35	26	30	22	-	-	nu	-	rs	wk	-	-	-	-
-43	Yurlungur	Sun	26	29	30	27	24	-	-	-	-	nu	-	wk	-	rs	-
-44	Ananta	Councillor	26	30	31	27	25	-	-	-	ab	wk	-	-	-	-	-
-44	Valkyrie	Strength	33	24	28	29	25	-	rs	wk	rp	-	-	-	-	nu	-
-44	Magatsu-Izanagi*	Tower	37	35	32	25	10	-	rs	-	-	-	-	-	wk	nu	nu
-45	Byakko	Temperance	35	28	30	32	17	-	-	wk	ab	-	-	-	wk	-	rs
-45	Pazuzu	Devil	29	33	27	26	27	-	-	-	-	-	rs	-	-	wk	nu
-46	Fortuna	Fortune	23	32	29	34	27	-	-	nu	-	wk	nu	-	-	-	-
-46	Athena*	Chariot	33	27	29	29	27	rs	nu	-	-	wk	-	-	-	-	-
-47	Horus	Sun	30	32	29	35	22	-	-	wk	-	nu	-	-	-	rp	-
-48	Narcissus	Lovers	27	31	29	33	31	-	-	wk	-	nu	rs	-	-	rs	-
-48	Rangda	Magician	28	34	30	33	26	rp	rp	nu	-	wk	-	-	-	wk	nu
-48	Magatsu-Izanagi Picaro*	Tower	40	38	35	27	11	-	rs	-	-	-	-	-	wk	nu	nu
-49	*Bugs	Fool	35	33	30	32	24	-	-	-	-	-	-	rs	wk	-	nu [Hariti, Pisaca, Pixie]
-49	Koumokuten	Hermit	37	29	34	29	25	rs	-	-	wk	-	-	-	-	rs	-
-50	Crystal Skull!	Fool	50	50	50	50	50	rs	rs	-	-	-	wk	-	-	-	- 2 1 1 1 -1 -1 1 -1 1 -2 -1 -1 -1 1 2 -1 -1 1 -1 1 -1 1 1
-50	Dakini	Empress	34	32	34	28	29	-	nu	rs	-	-	-	-	-	-	-
-50	Sarasvati	Priestess	30	35	32	33	27	-	-	-	nu	rs	-	-	wk	-	-
-50	Athena Picaro*	Chariot	35	30	31	32	29	rs	nu	-	-	wk	-	-	-	-	-
-50	Tsukiyomi*	Moon	38	32	33	37	17	rs	-	-	-	-	-	-	wk	rs	rp
-51	Jatayu	Hanged_Man	31	34	29	36	30	-	-	-	rs	-	rp	-	wk	rs	-
-51	*Seth	Tower	32	35	30	35	28	-	-	rp	-	-	nu	-	-	wk	rs [Horus, Thoth, Anubis, Isis]
-52	Barong	Emperor	33	35	33	37	25	-	rs	-	-	rs	wk	-	-	nu	wk
-52	Garuda	Star	30	36	29	39	29	-	-	-	-	-	rs	-	-	rp	-
-52	Mishaguji	Hierophant	32	32	32	32	35	rs	-	-	wk	nu	-	-	-	-	ab
-52	Norn	Fortune	30	38	33	34	28	-	-	-	-	rp	ab	-	-	rs	-
-53	Ganesha	Sun	39	31	37	33	26	rs	rs	-	-	-	ab	wk	-	-	-
-53	Skadi	Priestess	33	39	32	34	28	-	-	-	rp	-	-	-	-	-	nu
-54	Okuninushi	Faith	39	35	33	32	30	-	-	-	-	rp	wk	nu	wk	-	-
-54	Pale Rider	Death	32	37	33	40	27	-	-	-	-	-	rs	-	-	wk	rp
-55	Cerberus	Chariot	39	35	32	39	27	-	-	ab	wk	-	-	-	rs	-	-
-55	Raja Naga	Temperance	33	37	36	35	31	-	-	-	-	nu	-	-	-	-	-
-55	Tsukiyomi Picaro*	Moon	41	35	36	40	20	rs	-	-	-	-	-	-	wk	rs	rp
-56	Parvati	Lovers	33	39	33	39	31	-	-	-	rp	-	-	rs	-	rs	wk
-56	Titania	Empress	32	40	35	38	30	-	-	-	-	-	-	wk	rs	rs	rs
-56	Asterius*	Fortune	43	43	32	32	25	-	-	rs	wk	-	-	rs	-	-	nu
-57	Yatagarasu	Councillor	35	41	30	40	32	-	-	-	-	-	rs	-	-	nu	wk
-58	Baphomet	Devil	34	42	36	38	31	-	-	rs	-	-	-	-	-	wk	nu
-58	Melchizedek	Justice	37	32	40	39	33	-	-	-	-	-	wk	rs	-	ab	nu
-59	Black Rider	Tower	36	42	34	42	30	-	-	wk	ab	-	-	-	-	rs	rs
-59	*Trumpeter	Judgement	33	42	40	38	31	-	-	-	ab	rp	-	-	-	rp	nu [Black Rider, Pale Rider, Red Rider, White Rider]
-60	Lilith	Moon	33	43	37	39	35	-	-	wk	rp	-	-	-	rp	-	nu
-60	Moloch	Hanged_Man	32	45	42	31	37	-	-	ab	wk	rs	rs	ab	-	-	nu
-60	Orichalcum!	Faith	60	60	60	60	60	rs	rs	-	-	-	-	-	-	wk	- 1 -2 1 1 -1 2 -1 -1 1 -1 1 -1 1 1 -1 1 -1 1 -1 1 1 2 1
-61	King Frost	Emperor	40	44	43	29	34	-	-	-	ab	-	-	-	-	nu	-
-62	Chernobog	Death	40	37	39	38	39	-	rs	wk	ab	nu	-	-	-	wk	ab
-62	Seiryu	Councillor	38	41	43	37	34	-	-	-	rs	-	-	-	wk	-	-
-62	Asterius Picaro*	Fortune	46	46	36	36	29	-	-	rs	wk	-	-	rs	-	-	nu
-63	Forneus	Magician	41	39	40	42	34	-	-	-	ab	wk	-	nu	-	-	-
-63	Kali	Empress	43	41	39	39	34	-	rp	nu	-	-	-	rp	-	-	rs
-64	Hanuman	Strength	43	38	40	40	38	-	rs	-	wk	-	-	rs	-	rs	-
-64	Thor	Chariot	44	39	43	38	35	rs	-	-	-	nu	-	-	-	rs	rs
-64	Yamata-no-Orochi	Judgement	44	38	48	36	33	rs	-	-	ab	-	rs	-	-	-	rs
-65	Atavaka	Faith	51	36	43	38	34	rs	nu	rp	-	-	-	-	-	-	rs
-65	Thanatos*	Death	43	49	41	38	31	rs	-	-	-	-	-	-	-	wk	rp
-66	Oberon	Emperor	40	45	42	43	35	-	-	-	-	rs	-	nu	wk	-	-
-66	Quetzalcoatl	Sun	41	46	41	43	34	-	-	nu	-	-	rs	wk	-	-	-
-67	Bishamonten	Hierophant	51	37	42	44	34	-	-	ab	wk	-	-	-	-	rs	rs
-67	*Black Frost	Fool	44	46	41	42	35	-	-	rp	ab	-	-	-	nu	-	rp [King Frost, Jack Frost, Jack-o'-Lantern]
-68	Dominion	Justice	42	45	43	44	37	-	-	-	-	wk	-	-	rp	nu	rs
-68	*Vasuki	Star	42	45	44	42	38	-	-	-	nu	nu	-	-	-	-	wk [Raja Naga, Ananta, Naga]
-69	Lakshmi	Fortune	39	49	41	47	38	-	-	wk	rs	-	-	-	-	rs	-
-69	Thanatos Picaro*	Death	45	51	43	40	35	rs	-	-	-	-	-	-	-	wk	rp
-70	Biyarky	Moon	42	49	43	51	32	-	-	nu	wk	-	nu	-	wk	-	nu
-70	Loa	Hermit	45	47	43	46	39	-	-	rs	-	nu	-	wk	rs	wk	-
-71	Dionysus	Councillor	42	48	44	42	44	-	-	-	-	rp	-	-	-	nu	nu
-72	Mot	Death	43	51	48	42	39	-	rs	-	-	ab	wk	-	-	-	rp
-72	Throne	Justice	42	49	43	46	43	-	-	nu	-	-	nu	-	wk	rp	-
-73	Macabre	Hanged_Man	48	49	42	48	39	-	-	-	-	rs	-	-	-	wk	nu
-73	Mara	Tower	51	43	43	45	44	-	nu	ab	-	-	-	rp	-	rs	nu
-74	Chimera	Strength	51	40	42	48	48	-	-	ab	nu	-	wk	-	-	-	wk
-74	Nebiros	Devil	45	52	44	46	42	-	-	-	-	-	-	nu	-	wk	rs
-75	Abaddon	Judgement	51	42	58	38	43	ab	ab	-	-	-	-	-	-	rs	ab
-75	Sandalphon	Moon	46	51	49	48	38	rs	rs	-	-	-	-	-	-	rp	nu
-76	*Asura	Sun	52	48	51	49	35	-	-	nu	-	-	-	wk	rp	-	- [Bishamonten, Koumokuten, Zouchouten, Jikokuten]
-76	Cu Chulainn	Faith	55	44	46	48	42	rs	rs	-	-	wk	rp	-	-	nu	-
-76	*Kohryu	Hierophant	43	51	50	53	38	-	-	-	-	rp	-	nu	wk	nu	- [Seiryu, Byakko, Suzaku, Genbu]
-76	Raoul*	Fool	47	49	43	54	42	-	-	-	-	-	-	-	-	wk	nu
-77	Gabriel	Temperance	43	51	48	54	42	-	-	-	-	-	-	nu	-	ab	-
-77	Scathach	Priestess	48	52	46	48	44	-	-	-	nu	rp	-	-	-	-	nu
-78	Raphael	Lovers	57	45	49	55	35	-	-	-	ab	-	-	nu	-	nu	-
-80	*Sraosha	Star	47	56	45	56	43	-	-	-	-	ab	-	-	-	rp	wk [Gabriel, Lilith, Melchizedek, Mithras, Mithra]
-80	Vohu Manah	Councillor	46	59	45	56	41	-	-	-	-	rs	wk	-	-	ab	nu
-80	Zaou-Gongen	Strength	57	45	50	56	39	-	-	rp	-	wk	-	-	-	nu	nu
-80	*Izanagi-no-Okami*	World	52	56	46	48	45	rs	rs	rs	rs	rs	rs	rs	rs	-	- [Throne, Yamata-no-Orochi, Raja Naga, Barong, Norn, Inugami]
-81	Alilat	Empress	45	54	57	49	45	rp	rp	wk	ab	-	-	nu	-	-	wk
-81	Uriel	Justice	50	54	49	55	42	-	-	nu	-	-	-	-	ab	rp	-
-81	Messiah*	Judgement	50	50	50	50	50	-	-	rs	rs	rs	rs	rs	rs	rp	wk
-82	Attis	Hanged_Man	49	50	48	54	52	-	-	nu	-	-	rp	-	-	-	wk
-82	Baal	Emperor	54	58	53	47	41	-	-	rs	-	-	ab	-	-	rs	-
-82	Belial	Devil	52	53	51	48	49	nu	-	-	rs	-	-	-	-	-	nu
-82	Shiva	Judgement	55	54	53	53	38	-	-	-	nu	rp	-	ab	wk	nu	nu
-83	Alice	Death	45	61	49	54	47	-	-	-	-	-	-	rs	rs	wk	rp
-83	Cybele	Priestess	44	57	49	51	55	-	-	rs	-	wk	-	-	-	nu	-
-83	Surt	Magician	55	54	51	50	46	-	rs	ab	wk	nu	-	-	rs	-	-
-83	Vishnu	Fool	56	51	49	57	43	-	-	wk	ab	-	-	-	-	nu	nu
-84	Ardha	Temperance	54	56	55	54	40	rs	-	-	nu	nu	-	-	-	-	-
-84	Hastur	Star	51	59	52	56	41	-	-	rs	-	-	ab	nu	-	-	nu
-84	Odin	Emperor	53	58	54	52	42	-	-	-	-	nu	ab	-	-	rp	rp
-84	Siegfried	Faith	61	43	55	55	45	nu	rs	-	rs	nu	-	-	wk	-	-
-85	Ishtar	Lovers	48	59	49	58	48	-	-	-	-	nu	wk	-	-	-	-
-85	Mother Harlot	Empress	55	54	48	50	55	-	-	-	-	rp	-	-	-	wk	nu
-86	Fafnir	Hermit	61	55	58	48	43	rp	rp	ab	-	rs	-	-	ab	-	-
-86	Futsunushi	Magician	60	58	55	52	40	rs	-	-	-	-	-	-	wk	-	-
-87	Beelzebub	Devil	55	61	54	56	42	-	-	ab	-	-	-	-	-	wk	rp
-87	*Michael	Judgement	57	54	55	56	46	-	rs	-	-	-	-	-	-	rp	nu [Uriel, Raphael, Gabriel]
-87	*Yoshitsune	Tower	63	52	50	54	49	nu	-	rs	-	rp	-	-	-	rp	- [Futsunushi, Yatagarasu, Okuninushi, Arahabaki, Shiki-Ouji]
-88	*Chi You	Chariot	56	57	54	53	51	rs	rs	-	-	-	-	nu	wk	-	- [Yoshitsune, Cu Chulainn, Thor, Hecatoncheires, White Rider]
-89	*Metatron	Justice	54	61	60	57	42	-	-	-	-	wk	rp	ab	ab	-	wk [Michael, Sandalphon, Dominion, Melchizedek, Power, Principality]
-89	Ongyo-Ki	Hermit	56	53	57	59	49	rs	-	-	-	-	-	-	-	rp	rp
-89	*Izanagi-no-Okami Picaro*	World	54	61	56	58	45	rs	rs	rs	rs	rs	rs	rs	rs	-	- [Lucifer, Cu Chulainn, Kali, Okuninushi, Mithras, Orthus]
-90	Mada	Tower	55	54	61	59	48	-	-	ab	wk	-	-	rs	nu	-	-
-90	Messiah Picaro*	Judgement	56	56	55	55	55	-	-	rs	rs	rs	rs	rs	rs	rp	wk
-92	Satan	Judgement	62	59	55	52	55	-	rs	-	rp	-	-	-	-	-	rp
-93	*Lucifer	Star	61	59	59	56	51	nu	nu	rs	rs	rs	rs	-	-	wk	ab [Satan, Metatron, Michael, Trumpeter, Ananta, Anubis]
-93	Maria	Faith	52	66	53	54	61	-	-	wk	-	rs	nu	-	-	ab	-
-95	*Satanael	Fool	63	60	57	56	56	rs	rs	rs	rs	rs	rs	rs	rs	nu	ab [Lucifer, Satan, Michael, Ishtar, Anzu, Arsene]
+Persona ?| Arsene ?| 1 ?| Fool ?| 2,2,2,3,1 ?| Normal,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Weak,Resist ?| Eiha.1,Cleave.2,Sukunda.4,Dream Needle.5,Adverse Resolve.7 ?| Arsene's Cane ?| Arsene's Cane R ?| Last Stand ?| Curse
+Persona ?| Jack-o'-Lantern ?| 2 ?| Magician ?| 2,3,3,3,2 ?| Normal,Normal,Absorb,Weak,Normal,Weak,Normal,Normal,Normal,Normal ?| Agi.2,Rakunda.2,Sharp Student.4,Dazzler.5,Resist Sleep.7 ?| Pumpkin Bomb ?| Pumpkin Buster ?| Thermal Conduct ?| Fire
+Persona ?| Pixie ?| 2 ?| Lovers ?| 1,3,3,4,2 ?| Normal,Weak,Normal,Weak,Resist,Normal,Normal,Normal,Resist,Weak ?| Zio.2,Dia.2,Patra.3,Tarukaja.4,Resist Confuse.5 ?| Zio Ring ?| Mazio Ring ?| Static Electricity ?| Elec
+Persona ?| Agathion ?| 3 ?| Chariot ?| 3,4,5,7,3 ?| Normal,Resist,Normal,Normal,Resist,Weak,Normal,Normal,Normal,Normal ?| Dia.3,Baisudi.3,Lunge.4,Rakukaja.6,Zio.7,Dodge Elec.8 ?| Zio ?| Mazio ?| Rare Antibody ?| Elec
+Persona ?| Mandrake ?| 3 ?| Death ?| 2,3,3,4,4 ?| Normal,Normal,Weak,Normal,Resist,Normal,Normal,Normal,Normal,Normal ?| Pulinpa.3,Energy Drop.3,Lunge.4,Sukunda.5,Skull Cracker.7 ?| Sukunda ?| Masukunda ?| Savior Bloodline ?| Elec
+Persona ?| Bicorn ?| 4 ?| Hermit ?| 5,3,3,5,3 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Resist ?| Lunge.4,Tarunda.4,Garu.6,Ice Wall.7,Apt Pupil.8 ?| Lunge ?| Assault Dive ?| Striking Weight ?| Wind
+Persona ?| Cait Sith ?| 5 ?| Magician ?| 6,4,4,5,3 ?| Normal,Normal,Normal,Normal,Resist,Weak,Normal,Normal,Normal,Normal ?| Agi.5,Cleave.5,Tarukaja.5,Resist Sleep.6,Sukukaja.7,Media.9 ?| Agi ?| Maragi ?| Thermal Conduct ?| Ailment
+Persona ?| Incubus ?| 5 ?| Devil ?| 4,6,4,5,3 ?| Normal,Normal,Weak,Normal,Resist,Normal,Normal,Normal,Weak,Normal ?| Life Drain.5,Dream Needle.5,Dormina.7,Tarunda.8,Dodge Curse.9 ?| Dream Needle ?| Dormin Rush ?| Draining Mouth ?| Ailment
+Persona ?| Kelpie ?| 6 ?| Strength ?| 5,5,5,6,4 ?| Normal,Normal,Normal,Resist,Weak,Normal,Normal,Normal,Normal,Normal ?| Garu.6,Lunge.6,Resist Brainwash.8,Sukukaja.9,Terror Claw.10 ?| Garu ?| Magaru ?| Striking Weight ?| Wind
+Persona ?| Saki Mitama ?| 6 ?| Lovers ?| 4,6,5,6,4 ?| Normal,Normal,Normal,Resist,Normal,Weak,Normal,Normal,Normal,Normal ?| Bufu.6,Energy Drop.6,Wind Wall.6,Growth 1.7,Rakukaja.8,Resist Dizzy.10 ?| Energy Drop Charm ?| Energy Shower Charm ?| Internal Hypnosis ?| Aid
+Persona ?| Silky ?| 6 ?| Priestess ?| 4,7,4,5,5 ?| Normal,Normal,Weak,Resist,Weak,Normal,Normal,Normal,Normal,Normal ?| Dormina.6,Bufu.6,Dia.7,Patra.9,Sharp Student.10 ?| Silk Dress ?| Silk Dress R ?| Intense Focus ?| Aid
+Persona ?| Genbu ?| 7 ?| Temperance ?| 5,6,7,6,4 ?| Normal,Normal,Normal,Null,Weak,Normal,Resist,Normal,Normal,Normal ?| Bufu.7,Rakunda.7,Patra.8,Resist Forget.9,Mabufu.10,Defense Master.12 ?| Bufu Ring ?| Mabufu Ring ?| Cold-Blooded ?| Ice
+Persona ?| Succubus ?| 7 ?| Moon ?| 4,7,5,8,4 ?| Normal,Normal,Resist,Normal,Normal,Weak,Normal,Normal,Weak,Null ?| Dormina.7,Rebellion.7,Agi.8,Dekaja.10,Sleep Boost.11,Mudo.12 ?| Brain Shot ?| Brain Shot R ?| Foul Odor ?| Curse
+Persona ?| Obariyon ?| 8 ?| Fool ?| 7,3,9,8,4 ?| Resist,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Normal ?| Snap.8,Sukunda.8,Lucky Punch.9,Resist Fear.10,Dekaja.12 ?| Lucky Punch ?| Miracle Punch ?| Striking Weight ?| Physical
+Persona ?| Angel ?| 9 ?| Justice ?| 6,9,5,9,5 ?| Normal,Weak,Normal,Normal,Resist,Normal,Normal,Normal,Null,Weak ?| Kouha.9,Makajam.9,Dia.9,Baisudi.10,Dodge Curse.11,Dekunda.12 ?| Kouha ?| Makouha ?| Skillful Combo ?| Bless
+Persona ?| Berith ?| 9 ?| Hierophant ?| 9,6,8,8,3 ?| Normal,Null,Resist,Weak,Normal,Normal,Normal,Normal,Normal,Normal ?| Cleave.9,Rakukaja.9,Tarukaja.10,Dodge Fire.11,Power Slash.13 ?| Cleave ?| Power Slash ?| Crisis Control ?| Physical
+Persona ?| Hua Po ?| 9 ?| Hanged_Man ?| 4,10,4,8,8 ?| Normal,Weak,Repel,Weak,Normal,Normal,Normal,Normal,Normal,Normal ?| Agi.9,Dormina.9,Tarunda.11,Resist Forget.12,Maragi.13,Burn Boost.15 ?| Agi Ring ?| Maragi Ring ?| Thermal Conduct ?| Fire
+Persona ?| Koropokkuru ?| 9 ?| Hermit ?| 5,8,6,9,6 ?| Normal,Normal,Weak,Resist,Normal,Resist,Normal,Normal,Normal,Normal ?| Makajam.9,Bufu.9,Dodge Ice.11,Sukunda.12,Fire Wall.13,Mabufu.14,Climate Decorum.15 ?| Bufu ?| Mabufu ?| Foul Odor ?| Ice
+Persona ?| Mokoi ?| 9 ?| Death ?| 9,5,6,10,4 ?| Normal,Normal,Normal,Normal,Resist,Weak,Normal,Normal,Normal,Normal ?| Tarukaja.9,Dazzler.9,Skull Cracker.10,Marin Karin.12,Dodge Elec.13,Dekunda.14 ?| Dekunda ?| Dekaja ?| Gloomy Child ?| Ailment
+TreasureDemon ?| Regent ?| 10 ?| Emperor ?| 10,10,10,10,10 ?| Resist,Resist,Normal,Normal,Normal,Normal,Normal,Weak,Normal,Normal ?| Maragi.10,Mabufu.10,Magaru.10,Mazio.10,Mapsi.10,Mafrei.10,Makouha.10,Maeiha.10 ?| Regent ?| Regent R ?| Skillful Combo,Skillful Technique,Mighty Gaz ?| -1,1,-1,-1,2,1,-1,1,1,2,1,-1,1,1,-1,-2,-1,1,-1,1,-1,-1,1 ?| Almighty
+Persona ?| Slime ?| 10 ?| Chariot ?| 9,6,11,6,5 ?| Resist,Resist,Weak,Normal,Normal,Weak,Normal,Normal,Normal,Normal ?| Lunge.10,Evil Touch.10,Tarunda.11,Fire Wall.13,Headbutt.14 ?| Tarunda ?| Matarunda ?| Rare Antibody ?| Curse
+Persona ?| Apsaras ?| 11 ?| Priestess ?| 7,11,6,10,6 ?| Normal,Normal,Weak,Resist,Weak,Normal,Normal,Normal,Normal,Normal ?| Rebellion.11,Ice Wall.11,Bufu.11,Media.13,Elec Wall.14,Wind Wall.16 ?| Media ?| Diarama ?| Internal Hypnosis ?| Ice
+Persona ?| Jack Frost ?| 11 ?| Magician ?| 8,9,7,9,7 ?| Normal,Normal,Weak,Null,Normal,Normal,Normal,Normal,Normal,Normal ?| Bufu.11,Ice Break.11,Baisudi.11,Mabufu.12,Rakunda.13,Freeze Boost.15 ?| Frost Hood ?| Frost Hood R ?| Frigid Bloodline ?| Ice
+Persona ?| Kodama ?| 11 ?| Star ?| 7,11,8,10,4 ?| Normal,Normal,Weak,Resist,Normal,Normal,Normal,Normal,Normal,Normal ?| Garu.11,Rakunda.11,Psi.12,Evil Touch.13,Fear Boost.14,Tarukaja.15,Resist Fear.17 ?| Psi Ring ?| Mapsi Ring ?| Skillful Combo ?| Ailment
+Persona ?| Koppa Tengu ?| 11 ?| Temperance ?| 7,8,8,11,6 ?| Normal,Normal,Normal,Weak,Normal,Resist,Normal,Normal,Weak,Normal ?| Garu.11,Sukukaja.11,Growth 1.12,Taunt.13,Rage Boost.13,Wage War.15 ?| Garu Ring ?| Magaru Ring ?| Intense Focus ?| Wind
+Persona ?| Orpheus F* ?| 11 ?| Fool ?| 8,9,8,9,6 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Resist,Weak ?| Neo Cadenza.11,Agi.11,Tarunda.11,Endure.11,Maragion.12,Marakukaja.14,Dodge Curse.15 ?| Graceful Harp ?| Graceful Harp R ?| Circle of Sadness ?| Almighty
+Persona ?| Kusi Mitama ?| 12 ?| Councillor ?| 7,11,9,8,8 ?| Normal,Normal,Weak,Normal,Normal,Resist,Normal,Normal,Normal,Normal ?| Dia.12,Media.12,Makajam.12,Regenerate 1.13,Wind Wall.14,Forget Boost.16 ?| Dia Charm ?| Media Charm ?| Gluttonmouth ?| Aid
+Persona ?| Onmoraki ?| 12 ?| Moon ?| 9,12,7,10,5 ?| Normal,Normal,Resist,Weak,Normal,Normal,Normal,Normal,Weak,Null ?| Eiha.12,Ice Wall.12,Agi.13,Evil Touch.14,Pulinpa.15,Confuse Boost.17 ?| Eiha Ring ?| Maeiha Ring ?| Intense Focus ?| Curse
+Persona ?| Ame-no-Uzume ?| 13 ?| Lovers ?| 7,10,9,11,9 ?| Normal,Normal,Absorb,Normal,Normal,Normal,Weak,Normal,Normal,Normal ?| Mazio.13,Magaru.13,Media.13,Nocturnal Flash.15,Baisudi.16,Divine Grace.18 ?| Senryou Takusha ?| Senryou Takusha R ?| Electric Bloodline ?| Almighty
+Persona ?| Ippon-Datara ?| 13 ?| Hermit ?| 11,7,14,6,8 ?| Normal,Resist,Resist,Weak,Normal,Repel,Normal,Normal,Resist,Resist ?| Sledgehammer.13,Tarukaja.13,Resist Dizzy.13,Rampage.15,Sharp Student.16,Counter.18 ?| Sledgehammer ?| Flash Bomb ?| Striking Weight ?| Physical
+Persona ?| Orpheus F Picaro* ?| 13 ?| Fool ?| 9,11,9,10,7 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Resist,Weak ?| Neo Cadenza.13,Maragi.13,Rakunda.13,Endure.13,Agilao.14,Marakukaja.16,Dodge Curse.17 ?| Endure ?| Enduring Soul ?| Circle of Sadness ?| Almighty
+Persona ?| Archangel ?| 14 ?| Justice ?| 11,9,10,12,7 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Null,Weak ?| Giant Slice.14,Dazzler.14,Hama.14,Rebellion.16,Power Slash.17,Vajra Blast.19 ?| Hama ?| Mahama ?| Skillful Combo ?| Bless
+Persona ?| Inugami ?| 14 ?| Hanged_Man ?| 11,9,9,12,8 ?| Normal,Null,Null,Normal,Normal,Weak,Normal,Normal,Normal,Null ?| Pulinpa.14,Tarukaja.14,Giant Slice.14,Dream Needle.15,Lucky Punch.17,Brain Shake.18,Confuse Boost.19 ?| Giant Slice ?| Rising Slash ?| Foul Odor ?| Fire
+Persona ?| Makami ?| 15 ?| Temperance ?| 13,12,8,11,8 ?| Normal,Null,Normal,Normal,Weak,Resist,Normal,Resist,Null,Normal ?| Double Fangs.15,Frei.15,Energy Drop.15,Mafrei.17,Makajam.18,Resist Despair.19,Dodge Elec.20 ?| Frei ?| Mafrei ?| Skillful Technique ?| Nuclear
+TreasureDemon ?| Queen's Necklace ?| 15 ?| Empress ?| 15,15,15,15,15 ?| Resist,Resist,Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal ?| Tarukaja.15,Rakukaja.15,Sukukaja.15,Recarm.15,Media.15,Tarunda.15,Rakunda.15,Sukunda.15 ?| Queen's Necklace ?| Queen's Necklace R ?| Savior Bloodline,Relief Bloodline,Potent Hypnosi ?| 1,-1,1,2,-1,-1,1,-1,-1,-1,-1,1,1,-1,1,1,-2,-1,2,-1,-1,1,1 ?| Almighty
+Persona ?| Shiisaa ?| 15 ?| Strength ?| 10,11,11,11,9 ?| Resist,Normal,Normal,Normal,Normal,Normal,Weak,Normal,Null,Weak ?| Double Fangs.15,Skull Cracker.15,Frei.15,Dodge Curse.16,Rampage.17,Dodge Elec.19 ?| Double Fangs ?| Cornered Fang ?| Atomic Bloodline ?| Elec
+Persona ?| Eligor ?| 16 ?| Emperor ?| 12,10,13,10,10 ?| Normal,Normal,Resist,Normal,Weak,Normal,Normal,Normal,Normal,Resist ?| Maragi.16,Sharp Student.16,Tarukaja.16,Double Fangs.18,Sukunda.19,Memory Blow.20 ?| Tarukaja ?| Matarukaja ?| Thermal Conduct ?| Fire
+Persona ?| High Pixie ?| 16 ?| Fool ?| 8,14,10,13,10 ?| Normal,Weak,Normal,Normal,Resist,Resist,Normal,Weak,Normal,Normal ?| Garu.16,Media.16,Dormina.16,Diarama.19,Pulinpa.20,Magaru.22 ?| Magaru ?| Garula ?| Skillful Combo ?| Aid
+Persona ?| Suzaku ?| 16 ?| Sun ?| 9,12,10,15,9 ?| Normal,Normal,Absorb,Weak,Normal,Normal,Normal,Resist,Normal,Normal ?| Frei.16,Tarunda.16,Marin Karin.16,Dekunda.18,Mafrei.19,Speed Master.20,Matarunda.21 ?| Frei Ring ?| Mafrei Ring ?| Gluttonmouth ?| Nuclear
+Persona ?| Kaguya* ?| 16 ?| Moon ?| 11,15,12,11,6 ?| Normal,Normal,Weak,Normal,Normal,Resist,Normal,Normal,Null,Null ?| Shining Arrows.16,Mediarama.16,Counterstrike.16,Divine Grace.17,Amrita Shower.18,Diarahan.21,Repel Phys.22 ?| Moonlight Robe ?| Moonlight Robe R ?| Inviolable Beauty ?| Almighty
+Persona ?| Matador ?| 17 ?| Death ?| 11,13,10,16,8 ?| Normal,Normal,Normal,Normal,Weak,Null,Normal,Normal,Normal,Normal ?| Psi.17,Null Dizzy.17,Sukukaja.17,Mapsi.18,Double Shot.20,Swift Strike.22 ?| Red Capote ?| Red Capote R ?| Potent Hypnosis ?| Psychic
+Persona ?| Nekomata ?| 17 ?| Magician ?| 13,10,12,15,8 ?| Normal,Normal,Normal,Normal,Weak,Normal,Resist,Normal,Normal,Normal ?| Magaru.17,Terror Claw.17,Evil Touch.17,Hysterical Slap.18,Wind Break.20,Elec Wall.21,Dodge Elec.22 ?| Cat Punch Bazooka ?| Cat Punch Bomber ?| Foul Odor ?| Ailment
+Persona ?| Orobas ?| 17 ?| Hierophant ?| 11,14,15,12,6 ?| Normal,Normal,Normal,Weak,Normal,Resist,Normal,Normal,Normal,Resist ?| Maragi.17,Sukukaja.17,Dekaja.17,Marakunda.19,Fire Break.20,Makajamaon.21 ?| Rakunda ?| Marakunda ?| Mighty Gaze ?| Fire
+Persona ?| Sudama ?| 17 ?| Hermit ?| 9,14,12,13,10 ?| Normal,Normal,Normal,Weak,Normal,Repel,Normal,Weak,Normal,Normal ?| Mapsi.17,Lucky Punch.17,Tarukaja.17,Ambient Aid.20,Wind Wall.21,Apt Pupil.22,Psio.23 ?| Mapsi ?| Psio ?| Gloomy Child ?| Psychic
+Persona ?| Black Ooze ?| 18 ?| Moon ?| 15,7,16,8,15 ?| Resist,Resist,Normal,Resist,Weak,Normal,Weak,Normal,Weak,Null ?| Sledgehammer.18,Evil Touch.18,Stagnant Air.18,Ambient Aid.20,Headbutt.21,Brain Jack.23,Flash Bomb.24 ?| Headbutt ?| Memory Blow ?| Rare Antibody ?| Curse
+Persona ?| Shiki-Ouji ?| 18 ?| Chariot ?| 16,14,12,9,10 ?| Null,Null,Normal,Normal,Normal,Normal,Normal,Weak,Null,Null ?| Tarukaja.18,Taunt.18,Double Shot.18,Mapsi.19,Dekaja.21,Psio.23,Oni-Kagura.24 ?| Double Shot ?| Triple Down ?| Psychic Bloodline ?| Psychic
+AdvancedPersona ?| Flauros ?| 19 ?| Devil ?| 15,11,13,14,11 ?| Normal,Normal,Null,Weak,Normal,Resist,Normal,Resist,Normal,Normal ?| Giant Slice.19,Dormin Rush.19,Dekaja.19,Dodge Physical.20,Rebellion.22,Cornered Fang.23,Heat Up.24 ?| Giant Slice Belt ?| Rising Slash Belt ?| Gluttonmouth ?| Orobas,Eligor,Berith ?| Ailment
+Persona ?| Leanan Sidhe ?| 19 ?| Lovers ?| 9,17,12,16,10 ?| Normal,Normal,Weak,Normal,Normal,Resist,Resist,Normal,Normal,Normal ?| Rakunda.19,Psio.19,Marin Karin.20,Mamudo.21,Mapsi.22,Eiga.23 ?| Mudo ?| Mamudo ?| Skillful Technique ?| Almighty
+Persona ?| Nue ?| 20 ?| Death ?| 16,10,17,14,10 ?| Normal,Normal,Weak,Resist,Normal,Normal,Normal,Normal,Normal,Null ?| Maeiha.20,Skull Cracker.20,Mudo.21,Pulinpa.22,Mamudo.24,Assault Dive.25,Curse Boost.26 ?| Maeiha ?| Eiga ?| Mighty Gaze ?| Curse
+Persona ?| Oni ?| 20 ?| Strength ?| 19,9,17,12,10 ?| Resist,Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal ?| Rampage.20,Counter.20,Snap.20,Giant Slice.22,Sharp Student.23,Memory Blow.24 ?| Rampage ?| Kill Rush ?| Retaliating Body ?| Physical
+TreasureDemon ?| Stone of Scone ?| 20 ?| Fortune ?| 20,20,20,20,20 ?| Resist,Resist,Weak,Normal,Normal,Normal,Normal,Normal,Normal,Normal ?| Agilao.20,Bufula.20,Garula.20,Zionga.20,Psio.20,Freila.20,Kouga.20,Eiga.20 ?| Stone of Scone ?| Stone of Scone R ?| Intense Focus,Gluttonmouth,Relentles ?| -1,2,-1,-1,1,1,-1,1,-1,-1,2,1,-1,1,-1,-1,1,1,-2,-1,1,1,1 ?| Almighty
+Persona ?| Yaksini ?| 20 ?| Empress ?| 14,11,13,16,13 ?| Normal,Null,Normal,Resist,Normal,Normal,Normal,Weak,Normal,Normal ?| Hysterical Slap.20,Wage War.20,Counter.20,Oni-Kagura.22,Attack Master.23,Vicious Strike.24 ?| Hysterical Slap ?| Oni-Kagura ?| Foul Odor ?| Ice
+Persona ?| Izanagi* ?| 20 ?| Fool ?| 14,13,13,14,13 ?| Normal,Normal,Normal,Normal,Resist,Weak,Normal,Normal,Normal,Null ?| Cross Slash.20,Zionga.20,Tarukaja.20,Rising Slash.21,Dodge Physical.22,Mazionga.24,Growth 3.25 ?| White Headband ?| White Headband R ?| God Maker ?| Almighty
+Persona ?| Orthrus ?| 21 ?| Hanged_Man ?| 16,14,14,19,7 ?| Normal,Normal,Absorb,Weak,Normal,Normal,Normal,Resist,Normal,Normal ?| Agilao.21,Double Fangs.21,Maragi.21,Burn Boost.22,Cornered Fang.24,Matarukaja.26 ?| Agilao ?| Maragion ?| Thermal Conduct ?| Fire
+Persona ?| Phoenix ?| 21 ?| Faith ?| 12,15,15,17,11 ?| Normal,Normal,Normal,Resist,Weak,Null,Normal,Normal,Normal,Normal ?| Freila.21,Dream Needle.21,Diarama.22,Recarm.23,Nuke Boost.25,Mafreila.26 ?| Miracle Dress ?| Miracle Dress R ?| Atomic Bloodline ?| Nuclear
+Persona ?| Jikokuten ?| 22 ?| Temperance ?| 18,11,16,15,13 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Resist,Weak ?| Assault Dive.22,Defense Master.22,Rakunda.22,Kill Rush.24,Counter.25,Matarukaja.27,Adverse Resolve.28 ?| Assault Dive Belt ?| Kill Rush Belt ?| Internal Hypnosis ?| Physical
+Persona ?| Nigi Mitama ?| 22 ?| Councillor ?| 13,15,15,16,14 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Resist,Resist ?| Baisudi.22,Diarama.22,Makouha.22,Divine Grace.24,Me Patra.25,Climate Decorum.26 ?| Kouha Ring ?| Makouha Ring ?| Relief Bloodline ?| Aid
+Persona ?| Fuu-Ki ?| 23 ?| Star ?| 14,17,16,15,14 ?| Normal,Resist,Normal,Normal,Weak,Absorb,Normal,Normal,Normal,Normal ?| Tetra Break.23,Tarukaja.23,Garula.23,Wind Boost.25,Magarula.26,Resist Wind.27 ?| Wind Boost ?| Wind Amp ?| Intense Focus ?| Wind
+Persona ?| Sandman ?| 23 ?| Magician ?| 11,13,14,17,21 ?| Normal,Normal,Weak,Normal,Weak,Resist,Normal,Normal,Normal,Normal ?| Dormina.23,Garula.23,Dormin Rush.23,Sukunda.24,Null Sleep.26,Magarula.27,Sleep Boost.28 ?| Dormina ?| Lullaby ?| Foul Odor ?| Wind
+Persona ?| Izanagi Picaro* ?| 23 ?| Fool ?| 16,15,15,16,14 ?| Normal,Normal,Normal,Normal,Null,Weak,Normal,Normal,Normal,Null ?| Cross Slash.23,Zionga.23,Rakukaja.23,Rising Slash.24,Null Phys.25,Mazionga.27,Growth 3.28 ?| Growth 2 ?| Growth 3 ?| God Maker ?| Almighty
+Persona ?| Naga ?| 24 ?| Hermit ?| 15,17,15,17,15 ?| Normal,Resist,Normal,Normal,Null,Weak,Normal,Normal,Normal,Normal ?| Power Slash.24,Memory Blow.24,Zionga.24,Shock Boost.26,Counter.27,Mazionga.28,Marakukaja.29 ?| Counter ?| Counterstrike ?| Striking Weight ?| Elec
+Persona ?| Rakshasa ?| 24 ?| Strength ?| 20,15,18,17,9 ?| Resist,Null,Resist,Normal,Normal,Weak,Normal,Normal,Weak,Resist ?| Giant Slice.24,Wind Wall.24,Tarukaja.24,Regenerate 1.26,Mind Slice.27,Counterstrike.28,Adverse Resolve.30 ?| Regenerate 1 ?| Regenerate 2 ?| Skillful Combo ?| Physical
+Persona ?| Sui-Ki ?| 24 ?| Moon ?| 16,15,15,18,15 ?| Normal,Resist,Normal,Absorb,Resist,Normal,Normal,Weak,Normal,Normal ?| Mabufu.24,Sledgehammer.24,Bufula.24,Null Ice.26,Wage War.27,Mabufula.28,Dodge Fire.29 ?| Bufula ?| Mabufula ?| Frigid Bloodline ?| Ice
+Persona ?| Anzu ?| 25 ?| Hierophant ?| 14,18,15,21,14 ?| Normal,Weak,Normal,Normal,Resist,Repel,Normal,Weak,Normal,Normal ?| Garula.25,Masukukaja.25,Wind Break.25,Assault Dive.27,Dekaja.28,Null Forget.29 ?| Garula ?| Magarula ?| Wind Bloodline ?| Wind
+Persona ?| Kin-Ki ?| 25 ?| Chariot ?| 21,13,21,15,12 ?| Resist,Repel,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal ?| Vajra Blast.25,Rakukaja.25,Regenerate 1.25,Sledgehammer.27,Dodge Psy.28,Bad Beat.30,Counterstrike.31 ?| Vajra Blast ?| Vicious Strike ?| Retaliating Body ?| Physical
+TreasureDemon ?| Koh-i-Noor ?| 25 ?| Priestess ?| 25,25,25,25,25 ?| Resist,Weak,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal ?| Dodge Fire.25,Dodge Ice.25,Dodge Wind.25,Dodge Elec.25,Dodge Psy.25,Dodge Nuke.25,Dodge Bless.25,Dodge Curse.25 ?| Koh-i-Noor ?| Koh-i-Noor R ?| Rare Antibody,Bloodstained Eyes,Crisis Contro ?| 1,-1,2,1,-1,-2,1,-1,2,1,-1,1,-1,1,-1,1,1,-1,-1,1,-1,1,1 ?| Almighty
+Persona ?| Setanta ?| 25 ?| Emperor ?| 19,16,18,13,16 ?| Normal,Resist,Normal,Normal,Normal,Normal,Weak,Resist,Normal,Normal ?| Giant Slice.25,Dormin Rush.25,Counter.25,Charge.27,Rebellion.29,Rising Slash.30 ?| Rebellion Ring ?| Revolution Ring ?| Retaliating Body ?| Physical
+Persona ?| Kaguya Picaro* ?| 25 ?| Moon ?| 17,20,19,15,11 ?| Normal,Normal,Weak,Normal,Normal,Normal,Normal,Normal,Null,Null ?| Shining Arrows.25,Mediarama.25,High Counter.25,Divine Grace.26,Amrita Shower.27,Diarahan.30,Repel Phys.31 ?| Diarahan ?| Mediarahan ?| Inviolable Beauty ?| Almighty
+Persona ?| Isis ?| 26 ?| Priestess ?| 14,20,17,18,16 ?| Normal,Normal,Normal,Normal,Normal,Normal,Weak,Normal,Null,Normal ?| Makouga.26,Mahama.26,Diarama.26,Resist Despair.27,Hamaon.29,Hama Boost.30,Makarakarn.32 ?| Kouga ?| Makouga ?| Savior Bloodline ?| Aid
+Persona ?| Lamia ?| 26 ?| Empress ?| 21,15,18,19,12 ?| Normal,Normal,Normal,Weak,Resist,Normal,Normal,Weak,Normal,Null ?| Mudo.26,Rakukaja.26,Rising Slash.26,Ominous Words.27,Foul Breath.28,Mamudo.30,Despair Boost.31 ?| Rakukaja ?| Marakukaja ?| Foul Odor ?| Fire
+Persona ?| Take-Minakata ?| 26 ?| Hanged_Man ?| 17,19,18,16,15 ?| Normal,Normal,Normal,Normal,Resist,Normal,Weak,Normal,Normal,Resist ?| Zionga.26,Assault Dive.26,Defense Master.26,Mazionga.27,Elec Boost.29,Swift Strike.31,Shock Boost.32 ?| Zionga ?| Mazionga ?| Electric Bloodline ?| Elec
+Persona ?| Orpheus* ?| 26 ?| Fool ?| 17,17,17,17,17 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Resist,Weak ?| Cadenza.26,Agilao.26,Tarunda.26,Endure.27,Maragion.29,Marakukaja.30,Fire Boost.32 ?| Hades Harp ?| Hades Harp R ?| Circle of Sadness ?| Almighty
+Persona ?| Andras ?| 27 ?| Devil ?| 15,19,19,21,14 ?| Normal,Normal,Weak,Resist,Normal,Normal,Resist,Normal,Weak,Null ?| Foul Breath.27,Terror Claw.27,Evil Touch.28,Fear Boost.29,Rakunda.31,Ghastly Wail.32 ?| Evil Touch ?| Evil Smile ?| Foul Odor ?| Ice
+Persona ?| Clotho ?| 27 ?| Fortune ?| 14,19,18,20,17 ?| Normal,Normal,Normal,Weak,Normal,Null,Normal,Weak,Normal,Normal ?| Mahama.27,Me Patra.27,Makajam.27,Tetraja.28,Makajamaon.30,Energy Shower.31,Invigorate 1.33 ?| Tetraja ?| Makarakarn ?| Relief Bloodline ?| Aid
+Persona ?| Tam Lin ?| 27 ?| Faith ?| 21,16,18,16,17 ?| Resist,Normal,Null,Normal,Normal,Resist,Normal,Normal,Absorb,Weak ?| Assault Dive.27,Brain Shake.27,Rebellion.27,Sharp Student.28,Brain Buster.30,Brainwash Boost.31,Heat Up.32 ?| Genma Armor ?| Genma Armor R ?| Gluttonmouth ?| Almighty
+Persona ?| Choronzon ?| 28 ?| Magician ?| 16,19,19,18,19 ?| Resist,Normal,Absorb,Normal,Normal,Normal,Normal,Normal,Weak,Normal ?| Pulinpa.28,Life Drain.28,Rampage.28,Maeiha.29,Dodge Elec.30,Eiga.31,Curse Boost.32,Climate Decorum.33 ?| Eiga Ring ?| Maeiga Ring ?| Draining Mouth ?| Curse
+Persona ?| Pisaca ?| 28 ?| Death ?| 19,21,21,16,14 ?| Normal,Normal,Weak,Normal,Resist,Normal,Normal,Normal,Weak,Null ?| Dream Needle.28,Rampage.28,Stagnant Air.28,Mamudo.29,Abysmal Surge.31,Despair Boost.32,Mudoon.33 ?| Headhunter Ladle ?| Headhunter Ladle R ?| Rare Antibody ?| Curse
+Persona ?| Principality ?| 29 ?| Justice ?| 17,19,18,21,19 ?| Normal,Normal,Resist,Normal,Normal,Normal,Normal,Normal,Null,Weak ?| Makouga.29,Makajamaon.29,Tetraja.29,Mediarama.30,Forget Boost.32,Bless Boost.34,Mabaisudi.35 ?| Kouga Ring ?| Makouga Ring ?| Blessed Bloodline ?| Bless
+Persona ?| Orpheus Picaro* ?| 29 ?| Fool ?| 19,19,19,19,19 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Resist,Weak ?| Cadenza.29,Maragion.29,Matarunda.29,Endure.30,Agidyne.32,Matarukaja.33,Fire Boost.35 ?| Agidyne ?| Maragidyne ?| Circle of Sadness ?| Almighty
+Persona ?| Ara Mitama ?| 30 ?| Chariot ?| 20,18,20,20,19 ?| Resist,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Normal,Normal ?| Miracle Punch.30,Freila.30,Taunt.30,Rebellion.31,Marakunda.32,Rage Boost.34,Matarukaja.35 ?| Freila Ring ?| Mafreila Ring ?| Atomic Bloodline ?| Nuclear
+AdvancedPersona ?| Neko Shogun ?| 30 ?| Star ?| 19,20,19,21,18 ?| Resist,Normal,Normal,Normal,Resist,Weak,Normal,Normal,Null,Resist ?| Psio.30,Diarama.30,Masukukaja.30,Invigorate 1.31,Cornered Fang.33,Defense Master.35,Fortified Moxy.36 ?| Catnap ?| Catnap R ?| Last Stand ?| Anzu,Sudarma,Kodama ?| Almighty
+TreasureDemon ?| Orlov ?| 30 ?| Strength ?| 30,30,30,30,30 ?| Resist,Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Weak ?| Maragion.30,Mabufula.30,Magarula.30,Mazionga.30,Mapsio.30,Mafreila.30,Makouga.30,Maeiga.30 ?| Orlov ?| Orlov R ?| Atomic Bloodline,Electric Bloodline,Heated Bloodlin ?| -1,1,1,1,-1,-1,-1,1,-2,-1,1,2,1,-1,1,-1,-1,2,1,1,-1,-1,-1 ?| Almighty
+Persona ?| Ariadne* ?| 30 ?| Fortune ?| 23,19,20,17,18 ?| Normal,Resist,Normal,Normal,Normal,Normal,Weak,Null,Resist,Normal ?| Beast Weaver.30,Apt Pupil.30,Miracle Punch.30,Attack Master.31,Fortified Moxy.32,Evade Physical.34,Charge.36 ?| Red Yarn Ball ?| Red Yarn Ball R ?| Tag Team ?| Almighty
+Persona ?| Kurama Tengu ?| 31 ?| Hermit ?| 20,19,21,24,16 ?| Normal,Normal,Normal,Null,Normal,Repel,Normal,Normal,Resist,Resist ?| Double Shot.31,Masukunda.31,Magarula.31,Wind Boost.32,Brain Jack.34,Growth 2.36 ?| Garula Ring ?| Magarula Ring ?| Skillful Combo ?| Wind
+Persona ?| Zouchouten ?| 31 ?| Strength ?| 22,19,24,18,17 ?| Resist,Normal,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Normal ?| Kill Rush.31,Zionga.31,Terror Claw.32,Sharp Student.33,Resist Fear.34,Swift Strike.35,Attack Master.36 ?| Zionga Ring ?| Mazionga Ring ?| Electric Bloodline ?| Elec
+Persona ?| Decarabia ?| 32 ?| Councillor ?| 21,23,19,22,18 ?| Weak,Normal,Repel,Normal,Normal,Normal,Normal,Resist,Normal,Resist ?| Agilao.32,Ominous Words.32,Tetrakarn.33,Fire Boost.35,Agidyne.36,Null Fire.37,Megidola.38 ?| Maragion ?| Agidyne ?| Heated Bloodline ?| Fire
+Persona ?| Lilim ?| 32 ?| Devil ?| 17,23,18,25,20 ?| Normal,Normal,Normal,Resist,Normal,Weak,Normal,Normal,Weak,Null ?| Bufula.32,Lullaby.32,Freeze Boost.32,Masukunda.34,Dodge Bless.35,Spirit Drain.36,Mabufula.37 ?| Ice Boost ?| Ice Amp ?| Cold-Blooded ?| Ice
+Persona ?| Mithra ?| 33 ?| Temperance ?| 19,26,19,24,18 ?| Normal,Normal,Normal,Null,Weak,Normal,Normal,Normal,Null,Normal ?| Kouga.33,Mahama.33,Diarama.33,Makouga.34,Dekunda.35,Bless Boost.37,Thermopylae.38 ?| Death Contract ?| Death Vow ?| Blessed Bloodline ?| Bless
+Persona ?| Mothman ?| 33 ?| Moon ?| 21,24,16,24,21 ?| Normal,Weak,Normal,Normal,Null,Normal,Resist,Normal,Normal,Normal ?| Skull Cracker.33,Mazionga.33,Shock Boost.33,Tentarafoo.35,Ambient Aid.36,Makajamaon.37,Ziodyne.38 ?| Skull Cracker ?| Mind Slice ?| Static Electricity ?| Elec
+Persona ?| Anubis ?| 34 ?| Judgement ?| 19,24,22,21,23 ?| Normal,Resist,Normal,Normal,Normal,Normal,Resist,Normal,Null,Null ?| Hamaon.34,Mudoon.34,Makouga.34,Maeiga.36,Dekunda.37,Resist Bless.38 ?| Makouga ?| Kougaon ?| Deathly Illness ?| Almighty
+Persona ?| Thunderbird ?| 34 ?| Sun ?| 17,24,24,26,18 ?| Normal,Normal,Normal,Normal,Absorb,Normal,Weak,Normal,Normal,Weak ?| Mazionga.34,Tarukaja.34,Shock Boost.34,Rebellion.35,Ziodyne.37,Elec Boost.38 ?| Elec Boost ?| Elec Amp ?| Electric Bloodline ?| Elec
+Persona ?| Arahabaki ?| 35 ?| Hermit ?| 21,23,22,24,22 ?| Repel,Repel,Normal,Normal,Normal,Normal,Weak,Weak,Resist,Resist ?| Makarakarn.35,Abysmal Surge.35,Null Brainwash.35,Spirit Drain.37,Flash Bomb.38,Defense Master.39 ?| Tapsuan ?| Tapsuan R ?| Immunity ?| Ailment
+TreasureDemon ?| Emperor's Amulet ?| 35 ?| Hanged_Man ?| 35,35,35,35,35 ?| Resist,Resist,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Normal ?| Agidyne.35,Bufudyne.35,Garudyne.35,Ziodyne.35,Psiodyne.35,Freidyne.35,Kougaon.35,Eigaon.35 ?| Emperor's Amulet ?| Emperor's Amulet R ?| Frigid Bloodline,Wind Bloodline,Psychic Bloodlin ?| -1,1,-1,1,1,-1,-1,-2,1,1,-1,1,2,-1,1,2,1,-1,-1,-1,1,1,1 ?| Almighty
+Persona ?| Lachesis ?| 35 ?| Fortune ?| 18,26,22,25,21 ?| Normal,Normal,Normal,Null,Weak,Resist,Normal,Normal,Normal,Normal ?| Mabaisudi.35,Bufula.35,Growth 2.35,Marakukaja.36,Elec Wall.37,Mabufula.39,Ice Boost.41 ?| Bufula Ring ?| Mabufula Ring ?| Internal Hypnosis ?| Ice
+Persona ?| Kaiwan ?| 36 ?| Star ?| 23,26,24,22,20 ?| Normal,Null,Normal,Normal,Normal,Normal,Null,Weak,Normal,Normal ?| Makajam.36,Psio.36,Forget Boost.37,Speed Master.38,Makajamaon.39,Psiodyne.40,Marakunda.41 ?| Makajam ?| Makajamaon ?| Psychic Bloodline ?| Almighty
+Persona ?| Thoth ?| 36 ?| Emperor ?| 21,28,21,24,21 ?| Normal,Normal,Normal,Normal,Normal,Normal,Weak,Null,Null,Resist ?| Taunt.36,Freila.36,Masukunda.36,Megido.37,Psy Wall.39,Concentrate.40,Growth 2.42 ?| Mafreila ?| Freidyne ?| Skillful Technique ?| Nuclear
+Persona ?| Belphegor ?| 37 ?| Tower ?| 25,27,24,23,19 ?| Normal,Normal,Weak,Resist,Resist,Normal,Normal,Resist,Normal,Repel ?| Mabufula.37,Ice Break.37,Null Rage.38,Dodge Fire.39,Bufudyne.41,Concentrate.42 ?| Mabufula ?| Bufudyne ?| Intense Focus ?| Ice
+Persona ?| Hell Biker ?| 37 ?| Death ?| 23,24,24,30,17 ?| Normal,Normal,Repel,Normal,Normal,Resist,Normal,Normal,Weak,Normal ?| Mudoon.37,Agilao.37,Speed Master.37,Tentarafoo.38,Fire Boost.39,Maragion.40,Mamudoon.41 ?| Black Jacket ?| Dark Jacket ?| Internal Hypnosis ?| Fire
+Persona ?| Legion ?| 38 ?| Fool ?| 24,24,30,23,20 ?| Resist,Normal,Resist,Normal,Normal,Normal,Resist,Normal,Weak,Null ?| Bloodbath.38,Life Drain.38,Evil Smile.38,Foul Breath.39,Tetra Break.40,Null Dizzy.42,Eigaon.45 ?| Foul Breath ?| Stagnant Air ?| Draining Mouth ?| Psychic
+Persona ?| White Rider ?| 38 ?| Chariot ?| 22,21,26,27,25 ?| Normal,Normal,Null,Weak,Normal,Normal,Normal,Normal,Null,Repel ?| Triple Down.38,Evil Touch.38,Oni-Kagura.38,Gun Boost.40,Maeiga.41,Masukukaja.42,Foul Breath.43,Ailment Boost.44 ?| Gun Boost ?| Gun Amp ?| Bloodstained Eyes ?| Curse
+Persona ?| Atropos ?| 39 ?| Fortune ?| 23,30,22,27,22 ?| Normal,Normal,Weak,Normal,Normal,Null,Normal,Normal,Normal,Normal ?| Mazionga.39,Fire Wall.39,Elec Break.39,Mediarama.41,Elec Boost.42,Ziodyne.44,Concentrate.45 ?| Mazionga ?| Ziodyne ?| Mighty Gaze ?| Elec
+Persona ?| Mithras ?| 39 ?| Sun ?| 27,25,27,25,20 ?| Resist,Resist,Absorb,Normal,Normal,Normal,Weak,Null,Normal,Normal ?| Tentarafoo.39,Mafreila.39,Heat Wave.39,Tetra Break.41,Nuke Break.42,Mabaisudi.43,Freidyne.45 ?| Nuke Boost ?| Nuke Amp ?| Skillful Technique ?| Elec
+Persona ?| Unicorn ?| 39 ?| Faith ?| 20,27,25,28,24 ?| Normal,Normal,Normal,Null,Normal,Normal,Resist,Normal,Null,Weak ?| Assault Dive.39,Mahama.39,Dekunda.39,Samarecarm.41,Swift Strike.42,Kouga.43,Hamaon.44 ?| Mahama ?| Hamaon ?| Blessed Bloodline ?| Bless
+Persona ?| Daisoujou ?| 40 ?| Hierophant ?| 21,33,24,24,25 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Null,Weak ?| Spirit Drain.40,Makouga.40,Samsara.41,Bless Boost.42,Diarahan.43,Me Patra.44,Null Rage.45 ?| Makouga Ring ?| Kougaon Ring ?| Draining Mouth ?| Bless
+Persona ?| Hariti ?| 40 ?| Empress ?| 21,32,24,23,27 ?| Normal,Normal,Normal,Normal,Normal,Weak,Resist,Normal,Resist,Normal ?| Zionga.40,Energy Shower.40,Mabaisudi.40,Samarecarm.41,Nocturnal Flash.42,Mediarama.44,Dizzy Boost.45,Spirit Drain.46 ?| Recarm Charm ?| Samarecarm Charm ?| Electric Bloodline ?| Elec
+TreasureDemon ?| Hope Diamond ?| 40 ?| Death ?| 40,40,40,40,40 ?| Resist,Resist,Normal,Weak,Normal,Normal,Normal,Normal,Normal,Normal ?| Auto-Mataru.40,Auto-Maraku.40,Auto-Masuku.40,Endure.40,Regenerate 2.40,Invigorate 2.40,High Counter.40,Fast Heal.40 ?| Hope Diamond ?| Hope Diamond R ?| Retaliating Body,Striking Weight,Internal Hypnosi ?| 1,1,1,-1,1,-1,-2,-1,-1,1,1,-1,-1,2,-1,-1,-1,1,-1,2,-1,1,1 ?| Almighty
+Persona ?| Kikuri-Hime ?| 40 ?| Priestess ?| 22,31,24,28,22 ?| Normal,Normal,Weak,Normal,Normal,Null,Normal,Normal,Resist,Normal ?| Lullaby.40,Marakukaja.40,Energy Drop.40,Mediarama.41,Tetraja.43,Divine Grace.45 ?| Energy Drop ?| Energy Shower ?| Relief Bloodline ?| Aid
+Persona ?| Power ?| 41 ?| Justice ?| 30,26,28,25,21 ?| Normal,Normal,Normal,Normal,Normal,Resist,Normal,Normal,Null,Weak ?| Hamaon.41,Brain Shake.41,Swift Strike.42,Makouga.43,Bless Boost.44,Masukukaja.45,Null Curse.46 ?| Bless Boost ?| Bless Amp ?| Internal Hypnosis ?| Bless
+Persona ?| Red Rider ?| 41 ?| Tower ?| 26,27,25,29,23 ?| Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Null ?| Rising Slash.41,Psy Break.41,Mapsio.41,Negative Pile.42,Despair Boost.44,Ominous Words.45,Last Stand.46 ?| Psio Ring ?| Mapsio Ring ?| Ailment Hunter ?| Psychic
+Persona ?| Hecatoncheires ?| 42 ?| Hanged_Man ?| 35,22,27,23,26 ?| Normal,Resist,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Null ?| Swift Strike.42,Regenerate 2.42,Tarukaja.42,Endure.43,Rebellion.45,Fortified Moxy.46,Gatling Blows.49 ?| Swift Strike Belt ?| Gatling Blows Belt ?| Gluttonmouth ?| Physical
+Persona ?| Kumbhanda ?| 42 ?| Hermit ?| 25,30,25,27,26 ?| Normal,Normal,Null,Normal,Normal,Normal,Weak,Normal,Normal,Resist ?| Magarula.42,Stagnant Air.42,Bloodbath.42,Tempest Slash.43,Dekaja.45,Fear Boost.46,Revolution.47 ?| Terror Claw ?| Bloodbath ?| Rare Antibody ?| Ailment
+Persona ?| Kushinada-Hime ?| 42 ?| Lovers ?| 24,30,26,28,25 ?| Normal,Normal,Normal,Weak,Normal,Normal,Normal,Weak,Repel,Normal ?| Hysterical Slap.42,Psy Wall.42,Mediarama.42,Matarukaja.44,Null Confuse.45,Wind Wall.46,Amrita Shower.47,Null Ice.48 ?| Diarama Ring ?| Mediarama Ring ?| Savior Bloodline ?| Aid
+Persona ?| Ose ?| 42 ?| Fool ?| 32,24,25,31,21 ?| Normal,Null,Resist,Normal,Normal,Normal,Normal,Normal,Weak,Null ?| Oni-Kagura.42,Counterstrike.42,Charge.42,Tempest Slash.43,Matarukaja.45,Heat Wave.47 ?| Counterstrike ?| High Counter ?| Retaliating Body ?| Ailment
+Persona ?| Ariadne Picaro* ?| 42 ?| Fortune ?| 36,23,29,24,21 ?| Normal,Resist,Normal,Normal,Normal,Normal,Weak,Null,Resist,Normal ?| Beast Weaver.42,Apt Pupil.42,Miracle Punch.42,Auto-Mataru.43,Heat Up.44,Evade Physical.46,Charge.48 ?| Auto-Mataru ?| Auto-Maraku ?| Tag Team ?| Almighty
+Persona ?| Girimehkala ?| 43 ?| Moon ?| 32,24,32,29,19 ?| Repel,Repel,Resist,Normal,Normal,Normal,Normal,Normal,Weak,Null ?| Mudoon.43,Marakunda.43,Deathbound.43,Agidyne.46,Wage War.47,Repel Phys.50 ?| Swift Strike ?| Deathbound ?| Cursed Bloodline ?| Ailment
+Persona ?| Queen Mab ?| 43 ?| Magician ?| 23,35,26,30,22 ?| Normal,Normal,Null,Normal,Resist,Weak,Normal,Normal,Normal,Normal ?| Mazionga.43,Makajamaon.43,Burn Boost.43,Matarunda.44,Makara Break.46,Agidyne.47,Concentrate.48 ?| Masquerade Ribbon ?| Masquerade Ribbon R ?| Static Electricity ?| Almighty
+Persona ?| Yurlungur ?| 43 ?| Sun ?| 26,29,30,27,24 ?| Normal,Normal,Normal,Normal,Null,Normal,Weak,Normal,Resist,Normal ?| Brain Jack.43,Mazionga.43,Megidola.43,Revolution.45,Elec Break.46,Tetra Break.48,Elec Boost.49 ?| Mirrirmina ?| Mirrirmina R ?| Mouth of Savoring ?| Elec
+Persona ?| Ananta ?| 44 ?| Councillor ?| 26,30,31,27,25 ?| Normal,Normal,Normal,Absorb,Weak,Normal,Normal,Normal,Normal,Normal ?| Mafreila.44,Defense Master.44,Elec Wall.44,Abysmal Surge.46,Growth 2.47,Marakukaja.48,Freidyne.49,Nuke Boost.50 ?| Mafreila Ring ?| Freidyne Ring ?| Atomic Bloodline ?| Nuclear
+Persona ?| Valkyrie ?| 44 ?| Strength ?| 33,24,28,29,25 ?| Normal,Resist,Weak,Repel,Normal,Normal,Normal,Normal,Null,Normal ?| Rising Slash.44,Counterstrike.44,Attack Master.45,Deathbound.46,Matarukaja.47,Dodge Physical.49 ?| Rising Slash ?| Deadly Fury ?| Skillful Combo ?| Physical
+Persona ?| Magatsu-Izanagi* ?| 44 ?| Tower ?| 37,35,32,25,10 ?| Normal,Resist,Normal,Normal,Normal,Normal,Normal,Weak,Null,Null ?| Magatsu Mandala.44,Megidola.44,Ghastly Wail.44,Maziodyne.45,Bloodbath.46,Attack Master.48,Heat Riser.50 ?| Black Headband ?| Black Headband R ?| Hollow Jester ?| Almighty
+Persona ?| Byakko ?| 45 ?| Temperance ?| 35,28,30,32,17 ?| Normal,Normal,Weak,Absorb,Normal,Normal,Normal,Weak,Normal,Resist ?| Swift Strike.45,Mabufula.45,Counterstrike.45,Ice Boost.47,Ice Break.48,Evade Fire.49,Null Rage.50,Bufudyne.51 ?| Mabufula Ring ?| Bufudyne Ring ?| Retaliating Body ?| Ice
+Persona ?| Pazuzu ?| 45 ?| Devil ?| 29,33,27,26,27 ?| Normal,Normal,Normal,Normal,Normal,Resist,Normal,Normal,Weak,Null ?| Maeiga.45,Tentarafoo.45,Mudoon.45,Ambient Aid.47,Evil Smile.48,Stagnant Air.49,Eigaon.50 ?| Maeiga Ring ?| Eigaon Ring ?| Cursed Bloodline ?| Curse
+Persona ?| Fortuna ?| 46 ?| Fortune ?| 23,32,29,34,27 ?| Normal,Normal,Null,Normal,Weak,Null,Normal,Normal,Normal,Normal ?| Magarula.46,Masukukaja.46,Tetraja.46,Garudyne.47,Touch n' Go.49,Amrita Drop.50,Evade Elec.51 ?| Fortuna Robe ?| Fortuna Robe R ?| Wind Bloodline ?| Wind
+Persona ?| Athena* ?| 46 ?| Chariot ?| 33,27,29,29,27 ?| Resist,Null,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Normal ?| Akashic Arts.46,Marakukaja.46,Rising Slash.46,Diarahan.47,Matarukaja.48,Auto-Maraku.50,Samarecarm.51,Megaton Raid.52 ?| Kugelbein ?| Kugelbein R ?| Grace of the Olive ?| Almighty
+Persona ?| Horus ?| 47 ?| Sun ?| 30,32,29,35,22 ?| Normal,Normal,Weak,Normal,Null,Normal,Normal,Normal,Repel,Normal ?| Megidola.47,Diarama.47,Kougaon.47,Flash Bomb.49,Masukukaja.50,Hamaon.51,Hama Boost.52 ?| Hamaon Ring ?| Mahamaon Ring ?| Potent Hypnosis ?| Almighty
+Persona ?| Narcissus ?| 48 ?| Lovers ?| 27,31,29,33,31 ?| Normal,Normal,Weak,Normal,Null,Resist,Normal,Normal,Resist,Normal ?| Dazzler.48,Magarula.48,Energy Drop.48,Growth 3.50,Dizzy Boost.51,Mediarama.52,Ambient Aid.53 ?| Dazzler ?| Nocturnal Flash ?| Gluttonmouth ?| Ailment
+Persona ?| Rangda ?| 48 ?| Magician ?| 28,34,30,33,26 ?| Repel,Repel,Null,Normal,Weak,Normal,Normal,Normal,Weak,Null ?| Swift Strike.48,Bloodbath.48,Counterstrike.48,Eigaon.49,Matarunda.51,Mudoon.53 ?| Maeiga ?| Eigaon ?| Cursed Bloodline ?| Curse
+Persona ?| Magatsu-Izanagi Picaro* ?| 48 ?| Tower ?| 40,38,35,27,11 ?| Normal,Resist,Normal,Normal,Normal,Normal,Normal,Weak,Null,Null ?| Magatsu Mandala.48,Megidola.48,Ghastly Wail.48,Magarudyne.49,Bloodbath.50,Speed Master.52,Heat Riser.54 ?| Heat Riser ?| Debilitate ?| Hollow Jester ?| Almighty
+AdvancedPersona ?| Bugs ?| 49 ?| Fool ?| 35,33,30,32,24 ?| Normal,Normal,Normal,Normal,Normal,Normal,Resist,Weak,Normal,Null ?| Miracle Punch.49,Masukunda.49,Psiodyne.49,Auto-Mataru.51,Triple Down.52,Evade Physical.54,Fast Heal.55 ?| Bear Gloves ?| Bugbear Gloves ?| Potent Hypnosis ?| Hariti,Pisaca,Pixie ?| Almighty
+Persona ?| Koumokuten ?| 49 ?| Hermit ?| 37,29,34,29,25 ?| Resist,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Resist,Normal ?| Assault Dive.49,Regenerate 2.49,Revolution.49,Attack Master.51,Ice Wall.52,Enduring Soul.54,Deadly Fury.55 ?| Regenerate 2 ?| Regenerate 3 ?| Gluttonmouth ?| Physical
+TreasureDemon ?| Crystal Skull ?| 50 ?| Fool ?| 50,50,50,50,50 ?| Resist,Resist,Normal,Normal,Normal,Weak,Normal,Normal,Normal,Normal ?| Maragidyne.50,Mabufudyne.50,Magarudyne.50,Maziodyne.50,Mapsiodyne.50,Mafreidyne.50,Makougaon.50,Maeigaon.50 ?| Crystal Skull ?| Crystal Skull R ?| Cursed Bloodline,Ailment Hunter,Foul Stenc ?| 2,1,1,1,-1,-1,1,-1,1,-2,-1,-1,-1,1,2,-1,-1,1,-1,1,-1,1,1 ?| Almighty
+Persona ?| Dakini ?| 50 ?| Empress ?| 34,32,34,28,29 ?| Normal,Null,Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal ?| Bad Beat.50,Myriad Slashes.50,Rising Slash.50,High Counter.52,Deathbound.53,Rebellion.54,Charge.55 ?| Tempest Slash ?| Myriad Slashes ?| Skillful Combo ?| Physical
+Persona ?| Sarasvati ?| 50 ?| Priestess ?| 30,35,32,33,27 ?| Normal,Normal,Normal,Null,Resist,Normal,Normal,Weak,Normal,Normal ?| Mediarama.50,Ice Wall.50,Tentarafoo.50,Psy Wall.51,Dekaja.52,Matarunda.53,Diarahan.54 ?| Mediarama ?| Diarahan ?| Relief Bloodline ?| Aid
+Persona ?| Athena Picaro* ?| 50 ?| Chariot ?| 35,30,31,32,29 ?| Resist,Null,Normal,Normal,Weak,Normal,Normal,Normal,Normal,Normal ?| Akashic Arts.50,Matarukaja.50,Rising Slash.50,Diarahan.51,Marakukaja.52,Auto-Mataru.54,Samarecarm.55,Megaton Raid.56 ?| Charge ?| Concentrate ?| Grace of the Olive ?| Almighty
+Persona ?| Tsukiyomi* ?| 50 ?| Moon ?| 38,32,33,37,17 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Resist,Repel ?| Abyssal Wings.50,Drain Curse.50,Myriad Slashes.50,Life Drain.50,Curse Amp.53,Vorpal Blade.55,Arms Master.56 ?| Black Moon ?| Black Moon R ?| Bolstering Force ?| Almighty
+Persona ?| Jatayu ?| 51 ?| Hanged_Man ?| 31,34,29,36,30 ?| Normal,Normal,Normal,Resist,Normal,Repel,Normal,Weak,Resist,Normal ?| Garudyne.51,Masukukaja.51,Nocturnal Flash.51,Dizzy Boost.52,Wind Amp.54,Magarudyne.55,Speed Master.57 ?| Speed Master ?| Auto-Masuku ?| Wind Bloodline ?| Wind
+AdvancedPersona ?| Seth ?| 51 ?| Tower ?| 32,35,30,35,28 ?| Normal,Normal,Repel,Normal,Normal,Null,Normal,Normal,Weak,Resist ?| One-shot Kill.51,Agidyne.51,Masukukaja.51,Gun Amp.53,Fire Break.54,Fortify Spirit.56 ?| Triple Down Belt ?| One-shot Kill Belt ?| Potent Hypnosis ?| Horus,Thoth,Anubis,Isis ?| Fire
+Persona ?| Barong ?| 52 ?| Emperor ?| 33,35,33,37,25 ?| Normal,Resist,Normal,Normal,Resist,Weak,Normal,Normal,Null,Weak ?| Ziodyne.52,Wage War.52,Invigorate 2.52,Elec Break.54,Null Elec.55,Maziodyne.57 ?| Ziodyne ?| Maziodyne ?| Blessed Bloodline ?| Elec
+Persona ?| Garuda ?| 52 ?| Star ?| 30,36,29,39,29 ?| Normal,Normal,Normal,Normal,Normal,Resist,Normal,Normal,Repel,Normal ?| Garudyne.52,Mind Slice.52,Amrita Shower.53,Masukukaja.54,Evade Elec.55,Magarudyne.57,Wind Amp.59 ?| Garudyne ?| Magarudyne ?| Wind Bloodline ?| Wind
+Persona ?| Mishaguji ?| 52 ?| Hierophant ?| 32,32,32,32,35 ?| Resist,Normal,Normal,Weak,Null,Normal,Normal,Normal,Normal,Absorb ?| Regenerate 3.52,Brain Jack.52,Psiodyne.52,One-shot Kill.54,Endure.55,Deathbound.56,Ailment Boost.57 ?| Mapsio Ring ?| Psiodyne Ring ?| Ailment Hunter ?| Ailment
+Persona ?| Norn ?| 52 ?| Fortune ?| 30,38,33,34,28 ?| Normal,Normal,Normal,Normal,Repel,Absorb,Normal,Normal,Resist,Normal ?| Ziodyne.52,Garudyne.52,Nocturnal Flash.52,Diarahan.54,Amrita Drop.55,Tetraja.56,Samarecarm.57 ?| Recarm ?| Samarecarm ?| Intense Focus ?| Ailment
+Persona ?| Ganesha ?| 53 ?| Sun ?| 39,31,37,33,26 ?| Resist,Resist,Normal,Normal,Normal,Absorb,Weak,Normal,Normal,Normal ?| Miracle Punch.53,Tempest Slash.53,Rebellion.53,Tetraja.55,Resist Psy.56,Masukunda.57,Charge.60 ?| Rebellion ?| Revolution ?| Gluttonmouth ?| Ailment
+Persona ?| Skadi ?| 53 ?| Priestess ?| 33,39,32,34,28 ?| Normal,Normal,Normal,Repel,Normal,Normal,Normal,Normal,Normal,Null ?| Deadly Fury.53,Evil Smile.53,Fear Boost.53,Ghastly Wail.54,Mabufudyne.56,Maeigaon.57,Spirit Drain.58 ?| Snow Queen Whip ?| Snow Queen Whip R ?| Bloodstained Eyes ?| Ice
+Persona ?| Okuninushi ?| 54 ?| Faith ?| 39,35,33,32,30 ?| Normal,Normal,Normal,Normal,Repel,Weak,Null,Weak,Normal,Normal ?| Mapsio.54,Myriad Slashes.54,Matarukaja.54,Psy Boost.55,Psy Break.56,Evade Nuke.57,Heat Wave.59 ?| Official's Robe ?| Official's Robe R ?| Psychic Bloodline ?| Psychic
+Persona ?| Pale Rider ?| 54 ?| Death ?| 32,37,33,40,27 ?| Normal,Normal,Normal,Normal,Normal,Resist,Normal,Normal,Weak,Repel ?| Abysmal Surge.54,Eigaon.54,Brain Shake.54,Curse Boost.55,Megidola.56,Evade Bless.58,Deathbound.59 ?| Eigaon Ring ?| Maeigaon Ring ?| Foul Stench ?| Curse
+Persona ?| Cerberus ?| 55 ?| Chariot ?| 39,35,32,39,27 ?| Normal,Normal,Absorb,Weak,Normal,Normal,Normal,Resist,Normal,Normal ?| Agidyne.55,Megaton Raid.55,Rebellion.56,High Counter.57,Maragidyne.58,Enduring Soul.60 ?| Megaton Raid ?| God's Hand ?| Heated Bloodline ?| Fire
+Persona ?| Raja Naga ?| 55 ?| Temperance ?| 33,37,36,35,31 ?| Normal,Normal,Normal,Normal,Null,Normal,Normal,Normal,Normal,Normal ?| Ziodyne.55,Elec Break.55,Tentarafoo.55,Shock Boost.57,Makarakarn.58,Maziodyne.59,Evade Wind.60 ?| Ziodyne Ring ?| Maziodyne Ring ?| Electric Bloodline ?| Elec
+Persona ?| Tsukiyomi Picaro* ?| 55 ?| Moon ?| 41,35,36,40,20 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Resist,Repel ?| Abyssal Wings.55,Drain Curse.55,Myriad Slashes.55,Spirit Drain.55,Curse Amp.58,Vorpal Blade.60,Spell Master.61 ?| Spell Master ?| Arms Master ?| Bolstering Force ?| Almighty
+Persona ?| Parvati ?| 56 ?| Lovers ?| 33,39,33,39,31 ?| Normal,Normal,Normal,Repel,Normal,Normal,Resist,Normal,Resist,Weak ?| Diarama.56,Psiodyne.56,Psy Break.56,Energy Shower.57,Diarahan.58,Mapsiodyne.59,Null Ice.61 ?| Null Ice ?| Repel Ice ?| Skillful Technique ?| Psychic
+Persona ?| Titania ?| 56 ?| Empress ?| 32,40,35,38,30 ?| Normal,Normal,Normal,Normal,Normal,Normal,Weak,Resist,Resist,Resist ?| Freidyne.56,Ziodyne.56,Lullaby.56,Concentrate.59,Nuke Amp.60,Mediarahan.61 ?| Freidyne ?| Mafreidyne ?| Foul Stench ?| Nuclear
+Persona ?| Asterius* ?| 56 ?| Fortune ?| 43,43,32,32,25 ?| Normal,Normal,Resist,Weak,Normal,Normal,Resist,Normal,Normal,Null ?| Titanomachia.56,Maragidyne.56,Burn Boost.56,Auto-Mataru.57,Fire Amp.59,Tetrakarn.60,Gigantomachia.62 ?| Thunder Horns ?| Thunder Horns R ?| Frenzied Bull ?| Almighty
+Persona ?| Yatagarasu ?| 57 ?| Councillor ?| 35,41,30,40,32 ?| Normal,Normal,Normal,Normal,Normal,Resist,Normal,Normal,Null,Weak ?| Agidyne.57,Makara Break.57,Dekunda.57,Mediarahan.59,Last Stand.60,Wind Break.61,Null Wind.64 ?| Black Wing Robe ?| Black Wing Robe R ?| Potent Hypnosis ?| Fire
+Persona ?| Baphomet ?| 58 ?| Devil ?| 34,42,36,38,31 ?| Normal,Normal,Resist,Normal,Normal,Normal,Normal,Normal,Weak,Null ?| Agidyne.58,Evade Fire.58,Burn Boost.58,Bufudyne.59,Ziodyne.61,Shock Boost.62,Freeze Boost.63 ?| Bufudyne ?| Mabufudyne ?| Thermal Conduct ?| Almighty
+Persona ?| Melchizedek ?| 58 ?| Justice ?| 37,32,40,39,33 ?| Normal,Normal,Normal,Normal,Normal,Weak,Resist,Normal,Absorb,Null ?| Megaton Raid.58,Hamaon.58,Hama Boost.59,Revolution.60,Mahamaon.62,Matarukaja.63,God's Hand.65 ?| Hamaon ?| Mahamaon ?| Deathly Illness ?| Bless
+Persona ?| Black Rider ?| 59 ?| Tower ?| 36,42,34,42,30 ?| Normal,Normal,Weak,Absorb,Normal,Normal,Normal,Normal,Resist,Resist ?| Mamudoon.59,Flash Bomb.59,Maeigaon.59,Ambient Aid.60,Bloodbath.61,Ghastly Wail.63,Megidola.64 ?| Megidola ?| Megidolaon ?| Gloomy Child ?| Curse
+AdvancedPersona ?| Trumpeter ?| 59 ?| Judgement ?| 33,42,40,38,31 ?| Normal,Normal,Normal,Absorb,Repel,Normal,Normal,Normal,Repel,Null ?| Mafreidyne.59,Abysmal Surge.59,Brain Buster.59,Fortify Spirit.61,Gun Amp.62,Life Aid.63,Debilitate.65 ?| Freidyne Ring ?| Mafreidyne Ring ?| Relentless ?| Black Rider,Pale Rider,Red Rider,White Rider ?| Almighty
+Persona ?| Lilith ?| 60 ?| Moon ?| 33,43,37,39,35 ?| Normal,Normal,Weak,Repel,Normal,Normal,Normal,Repel,Normal,Null ?| Mabufudyne.60,Makarakarn.60,Freidyne.60,Mafreidyne.62,Spirit Drain.63,Freeze Boost.64,Nuke Amp.65 ?| Null Nuke ?| Repel Nuke ?| Mighty Gaze ?| Almighty
+Persona ?| Moloch ?| 60 ?| Hanged_Man ?| 32,45,42,31,37 ?| Normal,Normal,Absorb,Weak,Resist,Resist,Absorb,Normal,Normal,Null ?| Agidyne.60,Stagnant Air.60,Evil Smile.60,Maragidyne.62,Ghastly Wail.63,Drain Fire.64,Fire Amp.65 ?| Agidyne Ring ?| Maragidyne Ring ?| Immunity ?| Fire
+TreasureDemon ?| Orichalcum ?| 60 ?| Faith ?| 60,60,60,60,60 ?| Resist,Resist,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Normal ?| Inferno.60,Diamond Dust.60,Panta Rhei.60,Thunder Reign.60,Psycho Force.60,Atomic Flare.60,Divine Judgement.60,Demonic Decree.60 ?| Orichalcum ?| Orichalcum R ?| Blessed Bloodline,Mouth of Savoring,Immunit ?| 1,-2,1,1,-1,2,-1,-1,1,-1,1,-1,1,1,-1,1,-1,1,-1,1,1,2,1 ?| Almighty
+Persona ?| King Frost ?| 61 ?| Emperor ?| 40,44,43,29,34 ?| Normal,Normal,Normal,Absorb,Normal,Normal,Normal,Normal,Null,Normal ?| Bufudyne.61,Ice Break.61,Megaton Raid.61,Freeze Boost.62,Mabufudyne.64,Concentrate.65,Ice Amp.67 ?| King Frost Hood ?| King Frost Hood R ?| Frigid Bloodline ?| Ice
+Persona ?| Chernobog ?| 62 ?| Death ?| 40,37,39,38,39 ?| Normal,Resist,Weak,Absorb,Null,Normal,Normal,Normal,Weak,Absorb ?| Mudoon.62,Bloodbath.62,Myriad Slashes.62,Stagnant Air.63,Deathbound.64,Fear Boost.66,Brave Blade.67 ?| Mudoon ?| Mamudoon ?| Crisis Control ?| Ailment
+Persona ?| Seiryu ?| 62 ?| Councillor ?| 38,41,43,37,34 ?| Normal,Normal,Normal,Resist,Normal,Normal,Normal,Weak,Normal,Normal ?| Bufudyne.62,Diarahan.62,Marakukaja.62,Repel Nuke.63,Mabufudyne.65,Amrita Drop.66,Makarakarn.67 ?| Bufudyne Ring ?| Mabufudyne Ring ?| Relentless ?| Ice
+Persona ?| Asterius Picaro* ?| 62 ?| Fortune ?| 46,46,36,36,29 ?| Normal,Normal,Resist,Weak,Normal,Normal,Resist,Normal,Normal,Null ?| Titanomachia.62,Maragidyne.62,Burn Boost.62,Auto-Masuku.63,Fire Amp.65,Makarakarn.66,Gigantomachia.68 ?| Gigantomachia ?| Agneyastra ?| Frenzied Bull ?| Almighty
+Persona ?| Forneus ?| 63 ?| Magician ?| 41,39,40,42,34 ?| Normal,Normal,Normal,Absorb,Weak,Normal,Null,Normal,Normal,Normal ?| Psiodyne.63,Masukunda.63,Brain Jack.63,Survival Trick.65,Stagnant Air.66,Mapsiodyne.67,Evade Psy.68 ?| Psiodyne ?| Mapsiodyne ?| Bloodstained Eyes ?| Psychic
+Persona ?| Kali ?| 63 ?| Empress ?| 43,41,39,39,34 ?| Normal,Repel,Null,Normal,Normal,Normal,Repel,Normal,Normal,Resist ?| Heat Wave.63,Bloodbath.63,Brave Blade.63,Charge.65,High Counter.66,Repel Psy.67,Vorpal Blade.68 ?| Null Psy ?| Repel Psy ?| Relentless ?| Fire
+Persona ?| Hanuman ?| 64 ?| Strength ?| 43,38,40,40,38 ?| Normal,Resist,Normal,Weak,Normal,Normal,Resist,Normal,Resist,Normal ?| Tempest Slash.64,Matarunda.64,Revolution.64,Deathbound.65,Tetra Break.67,Regenerate 3.69 ?| Ruyi Jingu Bang ?| Ruyi Jingu Bang R ?| Potent Hypnosis ?| Physical
+Persona ?| Thor ?| 64 ?| Chariot ?| 44,39,43,38,35 ?| Resist,Normal,Normal,Normal,Null,Normal,Normal,Normal,Resist,Resist ?| Ziodyne.64,Megaton Raid.64,High Counter.64,Elec Amp.66,Maziodyne.67,Heat Up.68,Wild Thunder.71 ?| Mjolnir ?| Mjolnir R ?| Intense Focus ?| Elec
+Persona ?| Yamata-no-Orochi ?| 64 ?| Judgement ?| 44,38,48,36,33 ?| Resist,Normal,Normal,Absorb,Normal,Resist,Normal,Normal,Normal,Resist ?| One-shot Kill.64,Mabufudyne.64,Freeze Boost.64,Drain Ice.66,Ice Amp.67,Diamond Dust.69 ?| Triple Down ?| One-shot Kill ?| Cold-Blooded ?| Ice
+Persona ?| Atavaka ?| 65 ?| Faith ?| 51,36,43,38,34 ?| Resist,Null,Repel,Normal,Normal,Normal,Normal,Normal,Normal,Resist ?| Maragidyne.65,Oni-Kagura.65,Mediarahan.65,High Counter.67,Samarecarm.68,Brave Blade.70,Attack Master.71 ?| Brave Blade ?| Sword Dance ?| Savior Bloodline ?| Physical
+Persona ?| Thanatos* ?| 65 ?| Death ?| 43,49,41,38,31 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Repel ?| Door of Hades.65,Maeigaon.65,Mamudoon.65,Curse Amp.66,One-shot Kill.68,Fortified Moxy.69,Enduring Soul.70 ?| Darkness Ring ?| Darkness Ring R ?| Iron Heart ?| Almighty
+Persona ?| Oberon ?| 66 ?| Emperor ?| 40,45,42,43,35 ?| Normal,Normal,Normal,Normal,Resist,Normal,Null,Weak,Normal,Normal ?| Ziodyne.66,Nocturnal Flash.66,Heat Wave.66,Matarukaja.68,Myriad Slashes.69,Evade Nuke.70,Samarecarm.71,Elec Amp.72 ?| Heat Wave ?| Vorpal Blade ?| Static Electricity ?| Elec
+Persona ?| Quetzalcoatl ?| 66 ?| Sun ?| 41,46,41,43,34 ?| Normal,Normal,Null,Normal,Normal,Resist,Weak,Normal,Normal,Normal ?| Magarula.66,Garudyne.66,Memory Blow.66,Growth 3.68,Regenerate 3.69,Magarudyne.70,Wind Amp.71 ?| Magarudyne ?| Panta Rhei ?| Wind Bloodline ?| Wind
+Persona ?| Bishamonten ?| 67 ?| Hierophant ?| 51,37,42,44,34 ?| Normal,Normal,Absorb,Weak,Normal,Normal,Normal,Normal,Resist,Resist ?| Freidyne.67,Diarahan.67,Deadly Fury.67,Mafreidyne.69,Nuke Amp.71,Tetrakarn.72,God's Hand.73 ?| Mafreidyne ?| Atomic Flare ?| Savior Bloodline ?| Nuclear
+AdvancedPersona ?| Black Frost ?| 67 ?| Fool ?| 44,46,41,42,35 ?| Normal,Normal,Repel,Absorb,Normal,Normal,Normal,Null,Normal,Repel ?| Mabufudyne.67,One-shot Kill.67,Miracle Punch.67,Ice Amp.68,Freeze Boost.70,Repel Fire.71,Diamond Dust.72 ?| Naraku Whip ?| Naraku Whip R ?| Frigid Bloodline ?| King Frost,Jack Frost,Jack-o'-Lantern ?| Almighty
+Persona ?| Dominion ?| 68 ?| Justice ?| 42,45,43,44,37 ?| Normal,Normal,Normal,Normal,Weak,Normal,Normal,Repel,Null,Resist ?| Makajamaon.68,Hamaon.68,Kougaon.68,Makougaon.70,Hama Boost.71,Mahamaon.72,Evade Curse.74 ?| Makougaon ?| Divine Judgement ?| Blessed Bloodline ?| Bless
+AdvancedPersona ?| Vasuki ?| 68 ?| Star ?| 42,45,44,42,38 ?| Normal,Normal,Normal,Null,Null,Normal,Normal,Normal,Normal,Weak ?| Mahamaon.68,Brain Jack.68,Triple Down.68,Trigger Happy.70,Makarakarn.71,Brainwash Boost.72,Null Curse.73 ?| Kuzuryu Gouhou ?| Kuzuryu Gouhou R ?| Foul Stench ?| Raja Naga,Anata,Naga ?| Ailment
+Persona ?| Lakshmi ?| 69 ?| Fortune ?| 39,49,41,47,38 ?| Normal,Normal,Weak,Resist,Normal,Normal,Normal,Normal,Resist,Normal ?| Lullaby.69,Diarahan.69,Bufudyne.69,Mediarahan.70,Climate Decorum.71,Amrita Shower.72,Life Aid.74 ?| Amrita Drop Charm ?| Amrita Shower Charm ?| Wealth of Lotus ?| Aid
+Persona ?| Thanatos Picaro* ?| 69 ?| Death ?| 45,51,43,40,35 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Repel ?| Door of Hades.69,Maeigaon.69,Mamudoon.69,Mudo Boost.70,One-shot Kill.72,Adverse Resolve.73,Enduring Soul.74 ?| Maeigaon ?| Demonic Decree ?| Iron Heart ?| Almighty
+Persona ?| Byakhee ?| 70 ?| Moon ?| 42,49,43,51,32 ?| Normal,Normal,Null,Weak,Normal,Null,Normal,Weak,Normal,Null ?| Agidyne.70,Foul Breath.70,Death Scythe.70,Maragidyne.72,Ailment Boost.73,Fire Break.74,Heat Riser.75 ?| Null Wind ?| Repel Wind ?| Heated Bloodline ?| Fire
+Persona ?| Loa ?| 70 ?| Hermit ?| 45,47,43,46,39 ?| Normal,Normal,Resist,Normal,Null,Normal,Weak,Resist,Weak,Normal ?| Mamudoon.70,Abysmal Surge.70,Life Drain.70,Maeigaon.72,Drain Curse.73,Spirit Drain.74,Fortify Spirit.75 ?| Ominous Words ?| Abysmal Surge ?| Draining Mouth ?| Curse
+Persona ?| Dionysus ?| 71 ?| Councillor ?| 42,48,44,42,44 ?| Normal,Normal,Normal,Normal,Repel,Normal,Normal,Normal,Null,Null ?| Maziodyne.71,Ziodyne.71,Brain Jack.71,Thermopylae.72,Ailment Boost.73,Amrita Shower.75,Debilitate.76 ?| Maziodyne ?| Thunder Reign ?| Last Stand ?| Ailment
+Persona ?| Mot ?| 72 ?| Death ?| 43,51,48,42,39 ?| Normal,Resist,Normal,Normal,Absorb,Weak,Normal,Normal,Normal,Repel ?| Megidola.72,Matarukaja.72,Maeigaon.72,Concentrate.74,Megidolaon.76,Repel Elec.77 ?| Null Elec ?| Repel Elec ?| Mighty Gaze ?| Ailment
+Persona ?| Throne ?| 72 ?| Justice ?| 42,49,43,46,43 ?| Normal,Normal,Null,Normal,Normal,Null,Normal,Weak,Repel,Normal ?| Agidyne.72,Hamaon.72,Burn Boost.72,Fire Amp.74,Makougaon.75,Invigorate 3.76,Inferno.78 ?| Makougaon Ring ?| Divine Judgement Ring ?| Crisis Control ?| Bless
+Persona ?| Macabre ?| 73 ?| Hanged_Man ?| 48,49,42,48,39 ?| Normal,Normal,Normal,Normal,Resist,Normal,Normal,Normal,Weak,Null ?| Death Scythe.73,Evil Smile.73,Mamudoon.73,Auto-Masuku.74,Ghastly Wail.75,Myriad Slashes.76,Ali Dance.78 ?| Bloodbath ?| Death Scythe ?| Ailment Hunter ?| Curse
+Persona ?| Mara ?| 73 ?| Tower ?| 51,43,43,45,44 ?| Normal,Null,Absorb,Normal,Normal,Normal,Repel,Normal,Resist,Null ?| Mapsiodyne.73,One-shot Kill.73,Tetra Break.73,Charge.74,Brain Buster.76,Psy Amp.77,Psycho Force.78 ?| Mapsiodyne ?| Psycho Force ?| Mighty Gaze ?| Psychic
+Persona ?| Chimera ?| 74 ?| Strength ?| 51,40,42,48,48 ?| Normal,Normal,Absorb,Null,Normal,Weak,Normal,Normal,Normal,Weak ?| Maragidyne.74,Heat Wave.74,Bufudyne.74,Marakunda.76,Fire Amp.77,Mabufudyne.78,Ice Amp.79 ?| Null Fire ?| Drain Fire ?| Foul Stench ?| Physical
+Persona ?| Nebiros ?| 74 ?| Devil ?| 45,52,44,46,42 ?| Normal,Normal,Normal,Normal,Normal,Normal,Null,Normal,Weak,Resist ?| Marin Karin.74,Mapsiodyne.74,Marakukaja.74,Brain Jack.76,Brainwash Boost.77,Megidolaon.78,Null Bless.80 ?| Marin Karin ?| Brain Jack ?| Psychic Bloodline ?| Curse
+Persona ?| Abaddon ?| 75 ?| Judgement ?| 51,42,58,38,43 ?| Absorb,Absorb,Normal,Normal,Normal,Normal,Normal,Normal,Resist,Absorb ?| Mabufudyne.75,Megaton Raid.75,Enduring Soul.75,Flash Bomb.78,Ailment Boost.79,Drain Phys.80,Gigantomachia.81 ?| Megaton Raid Belt ?| God's Hand Belt ?| Mouth of Savoring ?| Curse
+Persona ?| Sandalphon ?| 75 ?| Moon ?| 46,51,49,48,38 ?| Resist,Resist,Normal,Normal,Normal,Normal,Normal,Normal,Repel,Null ?| Mahamaon.75,Samarecarm.75,Amrita Shower.75,Angelic Grace.77,Repel Curse.78,Sword Dance.79,Megidolaon.81 ?| Sword of Sinai ?| Sword of Sinai R ?| Omen ?| Bless
+Persona ?| Cu Chulainn ?| 76 ?| Faith ?| 55,44,46,48,42 ?| Resist,Resist,Normal,Normal,Weak,Repel,Normal,Normal,Null,Normal ?| High Counter.76,One-shot Kill.76,Rebellion.76,Matarukaja.78,Brave Blade.79,Charge.80,Apt Pupil.81 ?| One-shot Kill ?| Riot Gun ?| Potent Hypnosis ?| Almighty
+AdvancedPersona ?| Kohryu ?| 76 ?| Hierophant ?| 43,51,50,53,38 ?| Normal,Normal,Normal,Normal,Repel,Normal,Null,Weak,Null,Normal ?| Psycho Force.76,Mediarahan.76,Mapsiodyne.76,Life Aid.78,Concentrate.79,Psy Amp.80,Spell Master.82 ?| Mapsiodyne Ring ?| Psycho Force Ring ?| Universal Law ?| Seiryu,Byakko,Suzaku,Genbu ?| Psychic
+Persona ?| Raoul* ?| 76 ?| Fool ?| 47,49,43,54,42 ?| Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Null ?| Phantom Show.76,Eigaon.76,Ali Dance.76,Maeigaon.78,Heat Riser.79,Curse Amp.80,Concentrate.81,Life Aid.82 ?| Phantom Hat ?| Trickster Hat ?| Hazy Presence ?| Almighty
+Persona ?| Gabriel ?| 77 ?| Temperance ?| 43,51,48,54,42 ?| Normal,Normal,Normal,Normal,Normal,Normal,Null,Normal,Absorb,Normal ?| Maziodyne.77,Mabufudyne.77,Divine Judgement.78,Ali Dance.79,Evade Curse.80,Touch n' Go.81,Ice Amp.82,Salvation.83 ?| Mabufudyne Ring ?| Diamond Dust Ring ?| Relentless ?| Almighty
+Persona ?| Scathach ?| 77 ?| Priestess ?| 48,52,46,48,44 ?| Normal,Normal,Normal,Null,Repel,Normal,Normal,Normal,Normal,Null ?| Mabufudyne.77,Myriad Slashes.77,Makarakarn.77,Freeze Boost.78,Matarukaja.79,Vorpal Blade.81,Attack Master.82 ?| Makarakarn ?| Tetrakarn ?| Skillful Technique ?| Wind
+Persona ?| Raphael ?| 78 ?| Lovers ?| 57,45,49,55,35 ?| Normal,Normal,Normal,Absorb,Normal,Normal,Null,Normal,Null,Normal ?| Sword Dance.78,Charge.78,Dekaja.78,Heat Riser.80,Growth 3.81,Adverse Resolve.82,Arms Master.83 ?| Null Bless ?| Repel Bless ?| Last Stand ?| Almighty
+AdvancedPersona ?| Sraosha ?| 80 ?| Star ?| 47,56,45,56,43 ?| Normal,Normal,Normal,Normal,Absorb,Normal,Normal,Normal,Repel,Weak ?| Kougaon.80,Mahamaon.80,Hama Boost.80,Makougaon.81,Angelic Grace.83,Amrita Shower.84,Debilitate.85 ?| Archangel Bra ?| Archangel Bra R ?| Blessed Bloodline ?| Gabriel,Lilith,Melchizedek,Mithras,Mithra ?| Bless
+Persona ?| Vohu Manah ?| 80 ?| Councillor ?| 46,59,45,56,41 ?| Normal,Normal,Normal,Normal,Resist,Weak,Normal,Normal,Absorb,Null ?| Divine Judgement.80,Bless Amp.80,Makougaon.80,Drain Bless.82,Fortify Spirit.83,Invigorate 3.84,Salvation.85 ?| Doomsday ?| Ancient of Days ?| Positive Thoughts ?| Almighty
+Persona ?| Zaou-Gongen ?| 80 ?| Strength ?| 57,45,50,56,39 ?| Normal,Normal,Repel,Normal,Weak,Normal,Normal,Normal,Null,Null ?| Maragidyne.80,Abysmal Surge.80,God's Hand.80,Evade Physical.82,Enduring Soul.83,Gun Amp.84,Blazing Hell.86 ?| God's Hand Belt ?| Gigantomachia Belt ?| Undying Fury ?| Fire
+AdvancedPersona ?| Izanagi-no-Okami* ?| 80 ?| World ?| 52,56,46,48,45 ?| Resist,Resist,Resist,Resist,Resist,Resist,Resist,Resist,Normal,Normal ?| Myriad Truths.80,Victory Cry.80,Angelic Grace.80,Concentrate.81,Heat Riser.82,Heat Up.83,Salvation.84 ?| Bright Headband ?| Bright Headband R ?| Country Maker ?| Throne,Yamata-no-Orochi,Raja Naga,Barong,Norn,Inugami ?| Almighty
+Persona ?| Alilat ?| 81 ?| Empress ?| 45,54,57,49,45 ?| Repel,Repel,Weak,Absorb,Normal,Normal,Null,Normal,Normal,Weak ?| Diamond Dust.81,Marakukaja.81,Freeze Boost.81,Mabufudyne.82,Concentrate.83,Auto-Maraku.85,Ice Amp.86,Ice Age.87 ?| Mabufudyne ?| Diamond Dust ?| Frigid Bloodline ?| Ice
+Persona ?| Uriel ?| 81 ?| Justice ?| 50,54,49,55,42 ?| Normal,Normal,Null,Normal,Normal,Normal,Normal,Absorb,Repel,Normal ?| Deathbound.81,Myriad Slashes.81,Bloodbath.81,Repel Nuke.83,Megidolaon.84,Angelic Grace.85,Spell Master.86 ?| Heaven's Gate ?| Providence ?| Mouth of Savoring ?| Almighty
+Persona ?| Messiah* ?| 81 ?| Judgement ?| 50,50,50,50,50 ?| Normal,Normal,Resist,Resist,Resist,Resist,Resist,Resist,Repel,Weak ?| Oratorio.81,Megidolaon.81,God's Hand.81,Regenerate 3.82,Enduring Soul.83,Invigorate 3.84,Drain Phys.85,Almighty Boost.87 ?| Lucifer Guard ?| Lucifer Guard R ?| Hallowed Spirit ?| Almighty
+Persona ?| Attis ?| 82 ?| Hanged_Man ?| 49,50,48,54,52 ?| Normal,Normal,Null,Normal,Normal,Repel,Normal,Normal,Normal,Weak ?| Maragidyne.82,Salvation.82,Thermopylae.82,Enduring Soul.84,Samarecarm.85,Drain Curse.86,Blazing Hell.88 ?| Null Curse ?| Drain Curse ?| Pinch Anchor ?| Fire
+Persona ?| Baal ?| 82 ?| Emperor ?| 54,58,53,47,41 ?| Normal,Normal,Resist,Normal,Normal,Absorb,Normal,Normal,Resist,Normal ?| Panta Rhei.82,Revolution.82,Matarukaja.82,Ayamur.84,Tetraja.85,Charge.86,Vacuum Wave.87 ?| Yagrush ?| Yagrush R ?| Wind Bloodline ?| Wind
+Persona ?| Belial ?| 82 ?| Devil ?| 52,53,51,48,49 ?| Null,Normal,Normal,Resist,Normal,Normal,Normal,Normal,Normal,Null ?| Eigaon.82,Bloodbath.82,Curse Amp.82,Maeigaon.84,Fear Boost.85,Mamudoon.86,Demonic Decree.88 ?| Mamudoon ?| Demonic Decree ?| Bloodstained Eyes ?| Curse
+Persona ?| Shiva ?| 82 ?| Judgement ?| 55,54,53,53,38 ?| Normal,Normal,Normal,Null,Repel,Normal,Absorb,Weak,Null,Null ?| Psycho Force.82,Maziodyne.82,Enduring Soul.82,Riot Gun.85,Megidolaon.86,Auto-Mataru.87,Psycho Blast.88 ?| Megido Fire ?| Megido Buster ?| Psychic Bloodline ?| Psychic
+Persona ?| Alice ?| 83 ?| Death ?| 45,61,49,54,47 ?| Normal,Normal,Normal,Normal,Normal,Normal,Resist,Resist,Weak,Repel ?| Mamudoon.83,Mudo Boost.83,Maeigaon.83,Die For Me!.85,Megidolaon.86,Concentrate.87,Survival Trick.88 ?| Mamudoon Ring ?| Demonic Decree Ring ?| Just Die ?| Curse
+Persona ?| Cybele ?| 83 ?| Priestess ?| 44,57,49,51,55 ?| Normal,Normal,Resist,Normal,Weak,Normal,Normal,Normal,Null,Normal ?| Samarecarm.83,Mediarahan.83,Makougaon.83,Amrita Shower.84,Auto-Maraku.86,Drain Bless.87,Salvation.89 ?| Sabazios ?| Gorodias ?| Linked Bloodline ?| Aid
+Persona ?| Surt ?| 83 ?| Magician ?| 55,54,51,50,46 ?| Normal,Resist,Absorb,Weak,Null,Normal,Normal,Resist,Normal,Normal ?| Blazing Hell.83,Attack Master.83,Brave Blade.83,Fire Amp.84,Marakunda.85,Evade Ice.86,Gigantomachia.88 ?| Maragidyne ?| Inferno ?| Heated Bloodline ?| Fire
+Persona ?| Vishnu ?| 83 ?| Fool ?| 56,51,49,57,43 ?| Normal,Normal,Weak,Absorb,Normal,Normal,Normal,Normal,Null,Null ?| Megidolaon.83,Magarudyne.83,Ali Dance.83,Vacuum Wave.85,Concentrate.86,Repel Fire.87,Wind Amp.88,Riot Gun.90 ?| Sudarshana ?| Sudarshana R ?| Vahana's Wings ?| Almighty
+Persona ?| Ardha ?| 84 ?| Temperance ?| 54,56,55,54,40 ?| Resist,Normal,Normal,Null,Null,Normal,Normal,Normal,Normal,Normal ?| God's Hand.84,Cosmic Flare.84,Invigorate 3.84,Agneyastra.87,Auto-Masuku.88,Fortified Moxy.89,Salvation.90 ?| Sahasrara ?| Sahasrara R ?| Naranari ?| Almighty
+Persona ?| Hastur ?| 84 ?| Star ?| 51,59,52,56,41 ?| Normal,Normal,Resist,Normal,Normal,Absorb,Null,Normal,Normal,Null ?| Vacuum Wave.84,Nocturnal Flash.84,Debilitate.84,Abyssal Eye.86,Wind Amp.87,Spirit Drain.88,Repel Wind.89 ?| Magarudyne Ring ?| Panta Rhei Ring ?| Mouth of Savoring ?| Wind
+Persona ?| Odin ?| 84 ?| Emperor ?| 53,58,54,52,42 ?| Normal,Normal,Normal,Normal,Null,Absorb,Normal,Normal,Repel,Repel ?| Thunder Reign.84,Myriad Slashes.84,Marakukaja.84,Wild Thunder.86,Concentrate.87,Fast Heal.88,Elec Amp.89 ?| Wild Hunt ?| Gungnir ?| Bargain Bolts ?| Elec
+Persona ?| Siegfried ?| 84 ?| Faith ?| 61,43,55,55,45 ?| Null,Resist,Normal,Resist,Null,Normal,Normal,Weak,Normal,Normal ?| Brave Blade.84,Masukukaja.84,High Counter.84,Charge.85,Apt Pupil.87,Vorpal Blade.89,Auto-Mataru.90 ?| Vorpal Blade Belt ?| Brave Blade Belt ?| Retaliating Body ?| Physical
+Persona ?| Ishtar ?| 85 ?| Lovers ?| 48,59,49,58,48 ?| Normal,Normal,Normal,Normal,Null,Weak,Normal,Normal,Normal,Normal ?| Mediarahan.85,Samarecarm.85,Drain Wind.85,Insta-Heal.87,Maziodyne.88,Spell Master.89,Salvation.90 ?| Maziodyne Ring ?| Thunder Reign Ring ?| Grace of Mother ?| Aid
+Persona ?| Mother Harlot ?| 85 ?| Empress ?| 55,54,48,50,55 ?| Normal,Normal,Normal,Normal,Repel,Normal,Normal,Normal,Weak,Null ?| Mabufudyne.85,Mamudoon.85,Mudo Boost.85,Ice Age.86,Ice Amp.87,Repel Bless.88,Debilitate.90 ?| Claiomh Solais ?| Claiomh Solais R ?| Ghost Nest ?| Ice
+Persona ?| Fafnir ?| 86 ?| Hermit ?| 61,55,58,48,43 ?| Repel,Repel,Absorb,Normal,Resist,Normal,Normal,Absorb,Normal,Normal ?| Gigantomachia.86,Evil Smile.86,Cosmic Flare.86,Atomic Flare.88,Nuke Amp.90,Debilitate.91,Drain Nuke.92 ?| Mafreidyne Ring ?| Atomic Flare Ring ?| Ailment Hunter ?| Nuclear
+Persona ?| Futsunushi ?| 86 ?| Magician ?| 60,58,55,52,40 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Weak,Normal,Normal ?| Myriad Slashes.86,Matarukaja.86,Apt Pupil.86,Charge.88,Brave Blade.89,Regenerate 3.90,Firm Stance.91,Auto-Maraku.92 ?| Hinokagutsuchi ?| Hinokagutsuchi R ?| Will of the Sword ?| Physical
+Persona ?| Beelzebub ?| 87 ?| Devil ?| 55,61,54,56,42 ?| Normal,Normal,Absorb,Normal,Normal,Normal,Normal,Normal,Weak,Repel ?| Maeigaon.87,Mamudoon.87,Evil Smile.87,Curse Amp.88,Concentrate.89,Demonic Decree.90,Repel Ice.91,Megidolaon.92 ?| Fleurs du Mal ?| Fleurs du Mal R ?| Mother's Lament ?| Curse
+AdvancedPersona ?| Michael ?| 87 ?| Judgement ?| 57,54,55,56,46 ?| Normal,Resist,Normal,Normal,Normal,Normal,Normal,Normal,Repel,Null ?| Divine Judgement.87,Mabufudyne.87,Debilitate.87,Sword Dance.89,Mahamaon.90,Megidolaon.91,Cosmic Flare.92 ?| Judge of the Dead ?| Judge of the Dead R ?| Potent Hypnosis ?| Uriel,Raphael,Gabriel ?| Almighty
+AdvancedPersona ?| Yoshitsune ?| 87 ?| Tower ?| 63,52,50,54,49 ?| Null,Normal,Resist,Normal,Repel,Normal,Normal,Normal,Repel,Normal ?| Brave Blade.87,Charge.87,Ziodyne.87,Last Stand.89,Fast Heal.90,Elec Amp.92,Hassou Tobi.94 ?| Usumidori ?| Usumidori R ?| Retaliating Body ?| Futsunishi,Yatagarasu,Okuninushi,Arahabaki,Shiki-Ouji ?| Physical
+AdvancedPersona ?| Chi You ?| 88 ?| Chariot ?| 56,57,54,53,51 ?| Resist,Resist,Normal,Normal,Normal,Normal,Null,Weak,Normal,Normal ?| Psycho Force.88,Repel Phys.88,Gigantomachia.88,Fortify Spirit.90,Psycho Blast.91,Drain Psy.92,Concentrate.94 ?| Repel Phys ?| Drain Phys ?| Chi You's Blessing ?| Yoshitsune,Cu Chulainn,Thor,Hecatoncheires,White Rider ?| Psychic
+AdvancedPersona ?| Metatron ?| 89 ?| Justice ?| 54,61,60,57,42 ?| Normal,Normal,Normal,Normal,Weak,Repel,Absorb,Absorb,Normal,Weak ?| Mahamaon.89,Sword Dance.89,Makougaon.89,Megidolaon.91,Hama Boost.92,Concentrate.93,Bless Amp.94,Divine Judgement.95 ?| Nataraja ?| Nataraja R ?| Martyr's Gift ?| Michael,Sanalphon,Dominion,Melchizedek,Power,Principality ?| Bless
+Persona ?| Ongyo-Ki ?| 89 ?| Hermit ?| 56,53,57,59,49 ?| Resist,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Repel,Repel ?| Myriad Slashes.89,Makajamaon.89,Last Stand.89,Arms Master.91,Regenerate 3.92,Firm Stance.93,Agneyastra.95 ?| Myriad Slashes Belt ?| Sword Dance Belt ?| Demon's Bite ?| Physical
+AdvancedPersona ?| Izanagi-no-Okami Picaro* ?| 89 ?| World ?| 54,61,56,58,45 ?| Resist,Resist,Resist,Resist,Resist,Resist,Resist,Resist,Normal,Normal ?| Myriad Truths.89,Victory Cry.89,Angelic Grace.89,Concentrate.90,Debilitate.91,Enduring Soul.92,Salvation.93 ?| Mediarahan ?| Salvation ?| Country Maker ?| Lucifer,Cu Chulainn,Kali,Okuninushi,Mithras,Orthus ?| Almighty
+Persona ?| Mada ?| 90 ?| Tower ?| 55,54,61,59,48 ?| Normal,Normal,Absorb,Weak,Normal,Normal,Resist,Null,Normal,Normal ?| Inferno.90,Fire Amp.90,Burn Boost.90,Fortify Spirit.91,Blazing Hell.92,Amrita Shower.93,Enduring Soul.95,Spell Master.96 ?| Maragidyne Ring ?| Inferno Ring ?| Drunken Passion ?| Fire
+Persona ?| Messiah Picaro* ?| 90 ?| Judgement ?| 56,56,55,55,55 ?| Normal,Normal,Resist,Resist,Resist,Resist,Resist,Resist,Repel,Weak ?| Oratorio.90,Megidolaon.90,Agneyastra.90,Insta-Heal.91,Enduring Soul.92,Life Aid.93,Firm Stance.94,Almighty Boost.96 ?| Insta-Heal ?| Firm Stance ?| Hallowed Spirit ?| Almighty
+Persona ?| Satan ?| 92 ?| Judgement ?| 62,59,55,52,55 ?| Normal,Resist,Normal,Repel,Normal,Normal,Normal,Normal,Normal,Repel ?| Diamond Dust.92,Ice Age.92,Regenerate 3.92,Black Viper.94,Invigorate 3.95,Fortify Spirit.96,Concentrate.97,Drain Ice.98 ?| Tantric Oath ?| Tantric Oath R ?| Cocytus ?| Ice
+AdvancedPersona ?| Lucifer ?| 93 ?| Star ?| 61,59,59,56,51 ?| Null,Null,Resist,Resist,Resist,Resist,Normal,Normal,Weak,Absorb ?| Gigantomachia.93,Drain Curse.93,Morning Star.94,Spell Master.95,Heat Riser.96,Repel Bless.97,Insta-Heal.98,Drain Phys.99 ?| Tyrant Pistol ?| Tyrant Pistol R ?| Allure of Wisdom ?| Satan,Metratron,Michael,Trumpeter,Ananta,Anubis ?| Almighty
+Persona ?| Maria ?| 93 ?| Faith ?| 52,66,53,54,61 ?| Normal,Normal,Weak,Normal,Resist,Null,Normal,Normal,Absorb,Normal ?| Invigorate 3.93,Salvation.93,Holy Benevolence.93,Heat Riser.94,Holy Embrace.95,Angelic Grace.97,Holy Whisper.98 ?| Mediarahan Charm ?| Saintly Devotion Charm ?| Ave Maria ?| Aid
+AdvancedPersona ?| Satanael ?| 95 ?| Fool ?| 63,60,57,56,56 ?| Resist,Resist,Resist,Resist,Resist,Resist,Resist,Resist,Null,Absorb ?| Maeigaon.95,Megidolaon.95,Survival Trick.95,Riot Gun.95,Black Viper.96,Heat Riser.97,Tyrant's Mind.98,Victory Cry.99 ?| Paradise Lost ?| Paradise Lost R ?| Pagan Allure ?| Lucifer,Satan,Michael,Ishtar,Anzu,Arsene ?| Almighty

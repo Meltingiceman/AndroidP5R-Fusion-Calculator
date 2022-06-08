@@ -7,12 +7,12 @@ enum Arcana {
 }
 
 enum Type {
-    Physical, Gun, Fire, Ice, Electricity, Wind, Psychic, Nuclear, Bless, Curse, Ailment,
+    Physical, Gun, Fire, Ice, Elec, Wind, Psychic, Nuclear, Bless, Curse, Ailment,
     Aid, Almighty, Support, Passive
 }
 
 enum Resistance {
-    Weak, Resist, Absorb, Normal, Repel;
+    Weak, Resist, Absorb, Normal, Repel, Null;
 }
 
 class Skill
@@ -111,6 +111,7 @@ public class Persona {
     private Type inherits;
     private String item;
     private String itemR;
+    private boolean dlc;
 
     public Persona(Arcana arcana, String name, int lvl, int[] stats, Resistance[] resistances,
                    SkillSlot[] skills, String item, String itemR, Trait trait, Type inherits )
@@ -131,6 +132,15 @@ public class Persona {
         this.skillList = skills;
         this.inherits = inherits;
         this.trait = trait;
+        dlc = false;
+    }
+
+    public Persona(Arcana arcana, String name, int lvl, int[] stats, Resistance[] resistances,
+                   SkillSlot[] skills, String item, String itemR, Trait trait, Type inherits ,
+                   boolean _dlc)
+    {
+        this(arcana, name, lvl, stats, resistances, skills, item, itemR, trait, inherits);
+        dlc = _dlc;
     }
 
     public Persona(String na, int lvl, Arcana arc, Resistance[] reses, int[] stats, Trait trt)
@@ -243,6 +253,13 @@ class AdvancedPersona extends Persona
                            String item, String itemR, Trait trait, Persona[] recipe, Type inherits )
     {
         super(arcana, name, lvl, stats, resistances, skills, item, itemR, trait, inherits);
+        this.recipe = recipe;
+    }
+
+    public AdvancedPersona(Arcana arcana, String name, int lvl, int[] stats, Resistance[] resistances, SkillSlot[] skills,
+                           String item, String itemR, Trait trait, Persona[] recipe, Type inherits, boolean _dlc)
+    {
+        super(arcana, name, lvl, stats, resistances, skills, item, itemR, trait, inherits, _dlc);
         this.recipe = recipe;
     }
 
