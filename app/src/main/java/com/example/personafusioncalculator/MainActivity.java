@@ -14,10 +14,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Compendium compendium = Compendium.getInstance();
+
         try {
-            compendium.load(getAssets().open(getString(R.string.PersonaListFileName)));
+            compendium.loadPersonas(getAssets().open(getString(R.string.PersonaListFileName)));
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+
     }
 }

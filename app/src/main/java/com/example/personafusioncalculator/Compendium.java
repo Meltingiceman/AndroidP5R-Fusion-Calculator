@@ -537,29 +537,29 @@ public class Compendium {
 
     //an arcana table useful for helping figure out the resulting fusion's arcana
     private Arcana[][] arcanaChart = new Arcana[][]{
-        {Arcana.Fool, Arcana.Death, Arcana.Moon, Arcana.Hanged_Man, Arcana.Temperance, Arcana.Hermit, Arcana.Chariot, Arcana.Moon, Arcana.Star, Arcana.Priestess, Arcana.Faith, Arcana.Death, Arcana.Tower, Arcana.Strength, Arcana.Hierophant, Arcana.Temperance, Arcana.Empress, Arcana.Magician, Arcana.Justice, Arcana.Justice, Arcana.Sun, Arcana.Consultant, Arcana.Hierophant},
+        {Arcana.Fool, Arcana.Death, Arcana.Moon, Arcana.Hanged_Man, Arcana.Temperance, Arcana.Hermit, Arcana.Chariot, Arcana.Moon, Arcana.Star, Arcana.Priestess, Arcana.Faith, Arcana.Death, Arcana.Tower, Arcana.Strength, Arcana.Hierophant, Arcana.Temperance, Arcana.Empress, Arcana.Magician, Arcana.Justice, Arcana.Justice, Arcana.Sun, Arcana.Councillor, Arcana.Hierophant},
         {Arcana.Death, Arcana.Magician, Arcana.Temperance, Arcana.Justice, Arcana.Faith, Arcana.Death, Arcana.Devil, Arcana.Priestess, Arcana.Emperor, Arcana.Lovers, Arcana.Justice, Arcana.Fool, Arcana.Empress, Arcana.Hermit, Arcana.Chariot, Arcana.Hierophant, Arcana.Temperance, Arcana.Priestess, Arcana.Lovers, Arcana.Hierophant, Arcana.Strength, Arcana.Strength, Arcana.Moon},
         {Arcana.Moon, Arcana.Temperance, Arcana.Priestess, Arcana.Emperor, Arcana.Empress, Arcana.Magician, Arcana.Fortune, Arcana.Hierophant, Arcana.Death, Arcana.Temperance, Arcana.Magician, Arcana.Devil, Arcana.Death, Arcana.Magician, Arcana.Devil, Arcana.Moon, Arcana.Hanged_Man, Arcana.Hermit, Arcana.Hierophant, Arcana.Chariot, Arcana.Justice, Arcana.Justice, Arcana.Faith},
         {Arcana.Hanged_Man, Arcana.Justice, Arcana.Emperor, Arcana.Empress, Arcana.Justice, Arcana.Fool, Arcana.Judgement, Arcana.Star, Arcana.Lovers, Arcana.Strength, Arcana.Hermit, Arcana.Faith, Arcana.Priestess, Arcana.Fool, Arcana.Faith, Arcana.Sun, Arcana.Emperor, Arcana.Lovers, Arcana.Fortune, Arcana.Tower, Arcana.Emperor, Arcana.Magician, Arcana.Hanged_Man},
         {Arcana.Temperance, Arcana.Faith, Arcana.Empress, Arcana.Justice, Arcana.Emperor, Arcana.Fortune, Arcana.Fool, Arcana.Faith, Arcana.Chariot, Arcana.Hierophant, Arcana.Sun, Arcana.Tower, Arcana.Devil, Arcana.Hermit, Arcana.Devil, Arcana.Justice, Arcana.Star, Arcana.Lovers, Arcana.Tower, Arcana.Judgement, Arcana.Priestess, Arcana.Priestess, Arcana.Lovers},
-        {Arcana.Hermit, Arcana.Death, Arcana.Magician, Arcana.Fool, Arcana.Fortune, Arcana.Hierophant, Arcana.Strength, Arcana.Star, Arcana.Hanged_Man, Arcana.Consultant, Arcana.Justice, Arcana.Fool, Arcana.Sun, Arcana.Chariot, Arcana.Death, Arcana.Hanged_Man, Arcana.Judgement, Arcana.Tower, Arcana.Priestess, Arcana.Lovers, Arcana.Faith, Arcana.Empress, Arcana.Justice},
-        {Arcana.Chariot, Arcana.Devil, Arcana.Fortune, Arcana.Judgement, Arcana.Fool, Arcana.Strength, Arcana.Lovers, Arcana.Temperance, Arcana.Judgement, Arcana.Chariot, Arcana.Strength, Arcana.Death, Arcana.Consultant, Arcana.Temperance, Arcana.Strength, Arcana.Moon, Arcana.Empress, Arcana.Faith, Arcana.Magician, Arcana.Empress, Arcana.Hanged_Man, Arcana.Tower, Arcana.Tower},
-        {Arcana.Moon, Arcana.Priestess, Arcana.Hierophant, Arcana.Star, Arcana.Faith, Arcana.Star, Arcana.Temperance, Arcana.Chariot, Arcana.Moon, Arcana.Devil, Arcana.Consultant, Arcana.Hermit, Arcana.Fool, Arcana.Devil, Arcana.Strength, Arcana.Temperance, Arcana.Fortune, Arcana.Moon, Arcana.Lovers, Arcana.Priestess, null, Arcana.Lovers, Arcana.Sun},
-        {Arcana.Star, Arcana.Emperor, Arcana.Death, Arcana.Lovers, Arcana.Chariot, Arcana.Hanged_Man, Arcana.Judgement, Arcana.Moon, Arcana.Justice, Arcana.Magician, Arcana.Emperor, Arcana.Consultant, Arcana.Lovers, Arcana.Fool, Arcana.Emperor, Arcana.Fool, Arcana.Sun, Arcana.Empress, Arcana.Devil, Arcana.Hanged_Man, null, Arcana.Hanged_Man, Arcana.Emperor},
-        {Arcana.Priestess, Arcana.Lovers, Arcana.Temperance, Arcana.Strength, Arcana.Hierophant, Arcana.Consultant, Arcana.Chariot, Arcana.Devil, Arcana.Magician, Arcana.Hermit, Arcana.Star, Arcana.Hierophant, Arcana.Star, Arcana.Strength, Arcana.Strength, Arcana.Priestess, Arcana.Judgement, Arcana.Strength, Arcana.Chariot, Arcana.Devil, Arcana.Emperor, Arcana.Judgement, Arcana.Faith},
-        {Arcana.Faith, Arcana.Justice, Arcana.Magician, Arcana.Hermit, Arcana.Sun, Arcana.Justice, Arcana.Strength, Arcana.Consultant, Arcana.Emperor, Arcana.Star, Arcana.Fortune, Arcana.Faith, Arcana.Emperor, Arcana.Star, Arcana.Empress, Arcana.Hierophant, Arcana.Hanged_Man, Arcana.Devil, Arcana.Sun, Arcana.Star, Arcana.Tower, Arcana.Consultant, Arcana.Judgement},
-        {Arcana.Death, Arcana.Fool, Arcana.Devil, Arcana.Faith, Arcana.Tower, Arcana.Fool, Arcana.Death, Arcana.Hermit, Arcana.Consultant, Arcana.Hierophant, Arcana.Faith, Arcana.Strength, Arcana.Temperance, Arcana.Hierophant, Arcana.Chariot, Arcana.Death, Arcana.Faith, Arcana.Moon, Arcana.Magician, Arcana.Moon, null, Arcana.Star, Arcana.Empress},
-        {Arcana.Tower, Arcana.Empress, Arcana.Death, Arcana.Priestess, Arcana.Devil, Arcana.Sun, Arcana.Consultant, Arcana.Fool, Arcana.Lovers, Arcana.Star, Arcana.Emperor, Arcana.Temperance, Arcana.Hanged_Man, Arcana.Moon, Arcana.Death, Arcana.Fortune, Arcana.Hermit, Arcana.Justice, Arcana.Consultant, Arcana.Hierophant, Arcana.Star, Arcana.Devil, Arcana.Star},
-        {Arcana.Strength, Arcana.Hermit, Arcana.Magician, Arcana.Fool, Arcana.Hermit, Arcana.Chariot, Arcana.Temperance, Arcana.Devil, Arcana.Fool, Arcana.Strength, Arcana.Star, Arcana.Hierophant, Arcana.Moon, Arcana.Death, Arcana.Hanged_Man, Arcana.Chariot, Arcana.Sun, Arcana.Consultant, Arcana.Hierophant, Arcana.Fortune, null, Arcana.Fool, Arcana.Magician},
-        {Arcana.Hierophant, Arcana.Chariot, Arcana.Devil, Arcana.Faith, Arcana.Devil, Arcana.Death, Arcana.Strength, Arcana.Strength, Arcana.Emperor, Arcana.Strength, Arcana.Empress, Arcana.Chariot, Arcana.Death, Arcana.Hanged_Man, Arcana.Temperance, Arcana.Fool, Arcana.Fortune, Arcana.Sun, Arcana.Consultant, Arcana.Magician, Arcana.Hermit, Arcana.Hermit, Arcana.Fool},
+        {Arcana.Hermit, Arcana.Death, Arcana.Magician, Arcana.Fool, Arcana.Fortune, Arcana.Hierophant, Arcana.Strength, Arcana.Star, Arcana.Hanged_Man, Arcana.Councillor, Arcana.Justice, Arcana.Fool, Arcana.Sun, Arcana.Chariot, Arcana.Death, Arcana.Hanged_Man, Arcana.Judgement, Arcana.Tower, Arcana.Priestess, Arcana.Lovers, Arcana.Faith, Arcana.Empress, Arcana.Justice},
+        {Arcana.Chariot, Arcana.Devil, Arcana.Fortune, Arcana.Judgement, Arcana.Fool, Arcana.Strength, Arcana.Lovers, Arcana.Temperance, Arcana.Judgement, Arcana.Chariot, Arcana.Strength, Arcana.Death, Arcana.Councillor, Arcana.Temperance, Arcana.Strength, Arcana.Moon, Arcana.Empress, Arcana.Faith, Arcana.Magician, Arcana.Empress, Arcana.Hanged_Man, Arcana.Tower, Arcana.Tower},
+        {Arcana.Moon, Arcana.Priestess, Arcana.Hierophant, Arcana.Star, Arcana.Faith, Arcana.Star, Arcana.Temperance, Arcana.Chariot, Arcana.Moon, Arcana.Devil, Arcana.Councillor, Arcana.Hermit, Arcana.Fool, Arcana.Devil, Arcana.Strength, Arcana.Temperance, Arcana.Fortune, Arcana.Moon, Arcana.Lovers, Arcana.Priestess, null, Arcana.Lovers, Arcana.Sun},
+        {Arcana.Star, Arcana.Emperor, Arcana.Death, Arcana.Lovers, Arcana.Chariot, Arcana.Hanged_Man, Arcana.Judgement, Arcana.Moon, Arcana.Justice, Arcana.Magician, Arcana.Emperor, Arcana.Councillor, Arcana.Lovers, Arcana.Fool, Arcana.Emperor, Arcana.Fool, Arcana.Sun, Arcana.Empress, Arcana.Devil, Arcana.Hanged_Man, null, Arcana.Hanged_Man, Arcana.Emperor},
+        {Arcana.Priestess, Arcana.Lovers, Arcana.Temperance, Arcana.Strength, Arcana.Hierophant, Arcana.Councillor, Arcana.Chariot, Arcana.Devil, Arcana.Magician, Arcana.Hermit, Arcana.Star, Arcana.Hierophant, Arcana.Star, Arcana.Strength, Arcana.Strength, Arcana.Priestess, Arcana.Judgement, Arcana.Strength, Arcana.Chariot, Arcana.Devil, Arcana.Emperor, Arcana.Judgement, Arcana.Faith},
+        {Arcana.Faith, Arcana.Justice, Arcana.Magician, Arcana.Hermit, Arcana.Sun, Arcana.Justice, Arcana.Strength, Arcana.Councillor, Arcana.Emperor, Arcana.Star, Arcana.Fortune, Arcana.Faith, Arcana.Emperor, Arcana.Star, Arcana.Empress, Arcana.Hierophant, Arcana.Hanged_Man, Arcana.Devil, Arcana.Sun, Arcana.Star, Arcana.Tower, Arcana.Councillor, Arcana.Judgement},
+        {Arcana.Death, Arcana.Fool, Arcana.Devil, Arcana.Faith, Arcana.Tower, Arcana.Fool, Arcana.Death, Arcana.Hermit, Arcana.Councillor, Arcana.Hierophant, Arcana.Faith, Arcana.Strength, Arcana.Temperance, Arcana.Hierophant, Arcana.Chariot, Arcana.Death, Arcana.Faith, Arcana.Moon, Arcana.Magician, Arcana.Moon, null, Arcana.Star, Arcana.Empress},
+        {Arcana.Tower, Arcana.Empress, Arcana.Death, Arcana.Priestess, Arcana.Devil, Arcana.Sun, Arcana.Councillor, Arcana.Fool, Arcana.Lovers, Arcana.Star, Arcana.Emperor, Arcana.Temperance, Arcana.Hanged_Man, Arcana.Moon, Arcana.Death, Arcana.Fortune, Arcana.Hermit, Arcana.Justice, Arcana.Councillor, Arcana.Hierophant, Arcana.Star, Arcana.Devil, Arcana.Star},
+        {Arcana.Strength, Arcana.Hermit, Arcana.Magician, Arcana.Fool, Arcana.Hermit, Arcana.Chariot, Arcana.Temperance, Arcana.Devil, Arcana.Fool, Arcana.Strength, Arcana.Star, Arcana.Hierophant, Arcana.Moon, Arcana.Death, Arcana.Hanged_Man, Arcana.Chariot, Arcana.Sun, Arcana.Councillor, Arcana.Hierophant, Arcana.Fortune, null, Arcana.Fool, Arcana.Magician},
+        {Arcana.Hierophant, Arcana.Chariot, Arcana.Devil, Arcana.Faith, Arcana.Devil, Arcana.Death, Arcana.Strength, Arcana.Strength, Arcana.Emperor, Arcana.Strength, Arcana.Empress, Arcana.Chariot, Arcana.Death, Arcana.Hanged_Man, Arcana.Temperance, Arcana.Fool, Arcana.Fortune, Arcana.Sun, Arcana.Councillor, Arcana.Magician, Arcana.Hermit, Arcana.Hermit, Arcana.Fool},
         {Arcana.Temperance, Arcana.Hierophant, Arcana.Moon, Arcana.Sun, Arcana.Justice, Arcana.Hanged_Man, Arcana.Moon, Arcana.Temperance, Arcana.Fool, Arcana.Priestess, Arcana.Hierophant, Arcana.Death, Arcana.Fortune, Arcana.Chariot, Arcana.Fool, Arcana.Devil, Arcana.Magician, Arcana.Strength, Arcana.Chariot, Arcana.Hermit, Arcana.Lovers, Arcana.Chariot, Arcana.Chariot},
-        {Arcana.Empress, Arcana.Temperance, Arcana.Hanged_Man, Arcana.Emperor, Arcana.Star, Arcana.Judgement, Arcana.Empress, Arcana.Fortune, Arcana.Sun, Arcana.Judgement, Arcana.Hanged_Man, Arcana.Faith, Arcana.Hermit, Arcana.Sun, Arcana.Fortune, Arcana.Magician, Arcana.Tower, Arcana.Consultant, Arcana.Hermit, Arcana.Emperor, Arcana.Moon, Arcana.Death, Arcana.Death},
-        {Arcana.Magician, Arcana.Priestess, Arcana.Hermit, Arcana.Lovers, Arcana.Lovers, Arcana.Tower, Arcana.Faith, Arcana.Moon, Arcana.Empress, Arcana.Strength, Arcana.Devil, Arcana.Moon, Arcana.Justice, Arcana.Consultant, Arcana.Sun, Arcana.Strength, Arcana.Consultant, Arcana.Star, Arcana.Temperance, Arcana.Judgement, Arcana.Fortune, Arcana.Temperance, Arcana.Sun},
-        {Arcana.Justice, Arcana.Lovers, Arcana.Hierophant, Arcana.Fortune, Arcana.Tower, Arcana.Priestess, Arcana.Magician, Arcana.Lovers, Arcana.Devil, Arcana.Chariot, Arcana.Sun, Arcana.Magician, Arcana.Consultant, Arcana.Hierophant, Arcana.Consultant, Arcana.Chariot, Arcana.Hermit, Arcana.Temperance, Arcana.Moon, Arcana.Empress, Arcana.Fool, Arcana.Sun, Arcana.Temperance},
+        {Arcana.Empress, Arcana.Temperance, Arcana.Hanged_Man, Arcana.Emperor, Arcana.Star, Arcana.Judgement, Arcana.Empress, Arcana.Fortune, Arcana.Sun, Arcana.Judgement, Arcana.Hanged_Man, Arcana.Faith, Arcana.Hermit, Arcana.Sun, Arcana.Fortune, Arcana.Magician, Arcana.Tower, Arcana.Councillor, Arcana.Hermit, Arcana.Emperor, Arcana.Moon, Arcana.Death, Arcana.Death},
+        {Arcana.Magician, Arcana.Priestess, Arcana.Hermit, Arcana.Lovers, Arcana.Lovers, Arcana.Tower, Arcana.Faith, Arcana.Moon, Arcana.Empress, Arcana.Strength, Arcana.Devil, Arcana.Moon, Arcana.Justice, Arcana.Councillor, Arcana.Sun, Arcana.Strength, Arcana.Councillor, Arcana.Star, Arcana.Temperance, Arcana.Judgement, Arcana.Fortune, Arcana.Temperance, Arcana.Sun},
+        {Arcana.Justice, Arcana.Lovers, Arcana.Hierophant, Arcana.Fortune, Arcana.Tower, Arcana.Priestess, Arcana.Magician, Arcana.Lovers, Arcana.Devil, Arcana.Chariot, Arcana.Sun, Arcana.Magician, Arcana.Councillor, Arcana.Hierophant, Arcana.Councillor, Arcana.Chariot, Arcana.Hermit, Arcana.Temperance, Arcana.Moon, Arcana.Empress, Arcana.Fool, Arcana.Sun, Arcana.Temperance},
         {Arcana.Justice, Arcana.Hierophant, Arcana.Chariot, Arcana.Tower, Arcana.Judgement, Arcana.Lovers, Arcana.Empress, Arcana.Priestess, Arcana.Hanged_Man, Arcana.Devil, Arcana.Star, Arcana.Moon, Arcana.Hierophant, Arcana.Fortune, Arcana.Magician, Arcana.Hermit, Arcana.Emperor, Arcana.Judgement, Arcana.Empress, Arcana.Sun, Arcana.Death, Arcana.Emperor, Arcana.Fortune},
         {Arcana.Sun, Arcana.Strength, Arcana.Justice, Arcana.Emperor, Arcana.Priestess, Arcana.Faith, Arcana.Hanged_Man, null, null, Arcana.Emperor, Arcana.Tower, null, Arcana.Star, null, Arcana.Hermit, Arcana.Lovers, Arcana.Moon, Arcana.Fortune, Arcana.Fool, Arcana.Death, Arcana.Judgement, Arcana.Fortune, Arcana.Devil},
-        {Arcana.Consultant, Arcana.Strength, Arcana.Justice, Arcana.Magician, Arcana.Priestess, Arcana.Empress, Arcana.Tower, Arcana.Lovers, Arcana.Hanged_Man, Arcana.Judgement, Arcana.Consultant, Arcana.Star, Arcana.Devil, Arcana.Fool, Arcana.Hermit, Arcana.Chariot, Arcana.Death, Arcana.Temperance, Arcana.Sun, Arcana.Emperor, Arcana.Fortune, Arcana.Faith, Arcana.Priestess},
-        {Arcana.Hierophant, Arcana.Moon, Arcana.Faith, Arcana.Hanged_Man, Arcana.Lovers, Arcana.Justice, Arcana.Tower, Arcana.Sun, Arcana.Emperor, Arcana.Faith, Arcana.Judgement, Arcana.Empress, Arcana.Star, Arcana.Magician, Arcana.Fool, Arcana.Chariot, Arcana.Death, Arcana.Sun, Arcana.Temperance, Arcana.Fortune, Arcana.Devil, Arcana.Priestess, Arcana.Consultant}
+        {Arcana.Councillor, Arcana.Strength, Arcana.Justice, Arcana.Magician, Arcana.Priestess, Arcana.Empress, Arcana.Tower, Arcana.Lovers, Arcana.Hanged_Man, Arcana.Judgement, Arcana.Councillor, Arcana.Star, Arcana.Devil, Arcana.Fool, Arcana.Hermit, Arcana.Chariot, Arcana.Death, Arcana.Temperance, Arcana.Sun, Arcana.Emperor, Arcana.Fortune, Arcana.Faith, Arcana.Priestess},
+        {Arcana.Hierophant, Arcana.Moon, Arcana.Faith, Arcana.Hanged_Man, Arcana.Lovers, Arcana.Justice, Arcana.Tower, Arcana.Sun, Arcana.Emperor, Arcana.Faith, Arcana.Judgement, Arcana.Empress, Arcana.Star, Arcana.Magician, Arcana.Fool, Arcana.Chariot, Arcana.Death, Arcana.Sun, Arcana.Temperance, Arcana.Fortune, Arcana.Devil, Arcana.Priestess, Arcana.Councillor}
     };
 
     //the instance anyone using this class will use
@@ -582,55 +582,49 @@ public class Compendium {
 //		}
 //	}
 
-	public void load(InputStream fileStream)
+	public void loadPersonas(InputStream fileStream)
 	{
 		if(!initiaized)
 		{
-			loadPersonas(fileStream);
+			//		String path = dataFolder;
+//		System.out.println(path);
+			Scanner fileReader = null;
+			//read the file for persona data
+			try {
+				fileReader = new Scanner(fileStream);
+
+				while(fileReader.hasNext()) {
+
+					String line = fileReader.nextLine().trim();
+					//System.out.println("LINE: " + line);
+
+					//?| is a delimiter in the data file
+					String[] values = line.split(" \\?\\| ");
+
+					Persona addition;
+
+					if (values[0].equalsIgnoreCase("Persona")) {
+						addition = makePersona(values);
+					} else if (values[0].equalsIgnoreCase("AdvancedPersona")) {
+						addition = makeAdvanced(values);
+					} else {
+						addition = makeTreasureDemon(values);
+					}
+
+					listOfPersonas.add(addition);
+				}
+
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+
+	//        for(int i = 0; i < listOfPersonas.size(); i++)
+	//		{
+	//			System.out.println(listOfPersonas.get(i).getName());
+	//		}
 			initiaized = true;
 		}
 	}
-
-    private void loadPersonas(InputStream stream)
-    {
-
-//		String path = dataFolder;
-//		System.out.println(path);
-		Scanner fileReader = null;
-        //read the file for persona data
-        try {
-            fileReader = new Scanner(stream);
-
-            while(fileReader.hasNext()) {
-
-				String line = fileReader.nextLine().trim();
-				System.out.println("LINE: " + line);
-
-				//?| is a delimiter in the data file
-				String[] values = line.split(" \\?\\| ");
-
-				Persona addition;
-
-				if (values[0].equalsIgnoreCase("Persona")) {
-					addition = makePersona(values);
-				} else if (values[0].equalsIgnoreCase("AdvancedPersona")) {
-					addition = makeAdvanced(values);
-				} else {
-					addition = makeTreasureDemon(values);
-				}
-
-				listOfPersonas.add(addition);
-			}
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-        for(int i = 0; i < listOfPersonas.size(); i++)
-		{
-			System.out.println(listOfPersonas.get(i).getName());
-		}
-    }
 
     private Persona makePersona(String[] values)
 	{
@@ -731,7 +725,7 @@ public class Compendium {
 
 		for(int i = 0; i < skillPairs.length; i++)
 		{
-			System.out.println(skillPairs[i]);
+			//System.out.println(skillPairs[i]);
 			//creates an array that contains {Name, lvl} as strings
 			String[] temp = skillPairs[i].split("\\.");
 

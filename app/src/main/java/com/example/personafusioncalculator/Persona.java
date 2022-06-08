@@ -2,7 +2,7 @@ package com.example.personafusioncalculator;
 
 enum Arcana {
     Fool, Magician, Priestess, Empress, Emperor, Hierophant, Lovers, Chariot, Justice, Hermit, Fortune,
-    Strength, Hanged_Man, Death, Temperance, Devil, Tower, Star, Moon, Sun, Judgement, Faith, Consultant,
+    Strength, Hanged_Man, Death, Temperance, Devil, Tower, Star, Moon, Sun, Judgement, Faith, Councillor,
     World
 }
 
